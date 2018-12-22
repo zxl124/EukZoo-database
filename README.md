@@ -3,11 +3,11 @@ The EukZoo database is a protein database of aquatic microbial eukaryotes, or pr
 # Sources
 The source of the sequences were mainly from [Marine Microbial Eukaryotes Transcriptome Sequencing Project (MMETSP)](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1001889), and supplemented with various genomes and transcriptomes of organisms that were not a part of MMETSP. For a detailed list of sequences included, please consult [the taxonomy table](https://github.com/zxl124/EukZoo-database/blob/master/EukZoo_taxonomy_table_v_0.2.tsv). The MMETSP sequences were downloaded from [Lisa Johnson's MMETSP re-assemblies](https://monsterbashseq.wordpress.com/2016/09/13/mmetsp-re-assemblies/).
 
-  All sequences downloaded were binned by genus. For each genus, cdhit was performed on the sequences to reduce redundancy (>95% similarity).
+All sequences downloaded were binned by genus. For each genus, cdhit was performed on the sequences to reduce redundancy (>95% similarity).
 # Cleanup
 We have found in several occasions that some sequences in MMETSP are not from the organisms listed for specific MMETSP samples. Most of the cultures in MMETSP are non-axenic, and bacterial or algal prey were often added to the cultures, which could be the primary source of these sequences. The presence of these sequences from other organisms would often lead to incorrect taxonomic assignments and incorrect sequence recruitment, which are big problems in any environmental molecular study.
 
-  I carried out steps to identify and remove these sequences of secondary sources, consisting of either contamination or prey sequences. The cleanup effort was carried out in two steps. Please see Cleanup.md for details.
+I carried out steps to identify and remove these sequences of secondary sources, consisting of either contamination or prey sequences. The cleanup effort was carried out in two steps. Please see [Cleanup.md](https://github.com/zxl124/EukZoo-database/blob/master/Cleanup.md) for details.
 # Download
 Due to the size of the database files, they are hosted at [Zenodo](https://zenodo.org/record/1476236#.XB1ygM9KiGh). Please download files there. Some of the files, such as scripts to assign taxonomy or KEGG annotaiton, and taxonomy table, can be downloaded from this repository.
 # How to use EukZoo
