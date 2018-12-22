@@ -24,3 +24,5 @@ $ <path/to/diamond>/diamond blastx -d </path/to/EukZoo>/EukZoo -q Sample_R1.fast
 $ <path/to/diamond>/diamond blastx -d </path/to/EukZoo>/EukZoo -q Sample_R2.fastq -o Sample_R2.blastx
 ```
 You can use the "-t" option to specify the number of threads you want to use. In addition, you can consider adding "--sensitive" option to the search if your organisms of interest does not have any close relatives in the database (We used it in our metatranscriptome studies). It generates more hits at the sacrifice of speed.
+
+**If you use BLAST for the search, please make sure the outputs are in tabular format.**
