@@ -1,0 +1,740 @@
+Source_ID	Strain	Supergroup	Phylum	Class	Order	Family	Genus	Species	Notes
+MMETSP0290	CCMP2878	Alveolate	Apicomplexa	Chromerida	Chromeraceae	Incertae sedis	Chromera	Chromera velia	Archibald 2018
+AddRef0046	CCMP3155	Alveolate	Apicomplexa	Chromerida	Vitrellaceae	Incertae sedis	Vitrella	Vitrella brassicaformis	Archibald 2018
+MMETSP0288	CCMP3155	Alveolate	Apicomplexa	Chromerida	Vitrellaceae	Incertae sedis	Vitrella	Vitrella brassicaformis	Archibald 2018
+MMETSP1451	CCMP3346	Alveolate	Apicomplexa	Chromerida	Vitrellaceae	Incertae sedis	Vitrella	Vitrella brassicaformis	Archibald 2018
+MMETSP0372	Grappler Inlet BC	Alveolate	Apicomplexa	Conoidasida	Incertae sedis	Incertae sedis	Lankesteria	Lankesteria abbottii	Archibald 2018
+MMETSP0125	ATCC 50986	Alveolate	Ciliate	Colpodea	Cyrtolophosidida	Cyrtolophosidae	Aristerostoma	Aristerostoma sp.	Lynn 2008 (p 365)
+MMETSP0127	WH	Alveolate	Ciliate	Colpodea	Cyrtolophosidida	Platyophryidae	Platyophyra	Platyophrya macrostoma	Lynn 2008 (p 365)
+MMETSP1395	Stock R1072	Alveolate	Ciliate	Heterotrichea	Heterotrichia	Blepharismidae	Blepharisma	Blepharisma japonicum	Lynn 2008 (p 365)
+MMETSP1397	Stock W-24	Alveolate	Ciliate	Heterotrichea	Heterotrichia	Climacostomidae	Climacostomum	Climacostomum virens	Lynn 2008 (p 365)
+MMETSP1345	Fabrea salina	Alveolate	Ciliate	Heterotrichea	Heterotrichia	Climacostomidae	Fabrea	Fabrea salina	Lynn 2008 (p 365)
+MMETSP0210	COL2	Alveolate	Ciliate	Heterotrichea	Heterotrichia	Condylostomatidae	Condylostoma	Condylostoma magnum	Lynn 2008 (p 365)
+MMETSP0467	SPMC105	Alveolate	Ciliate	Litostomatea	Cyclotrichiida	Mesodiniidae	Mesodinium	Mesodinium pulex	Lynn 2008 (p 365)
+MMETSP0798	CCMP2563	Alveolate	Ciliate	Litostomatea	Cyclotrichiida	Mesodiniidae	Myrionecta	Myrionecta rubra	Lynn 2008 (p 365)
+MMETSP0209	P1	Alveolate	Ciliate	Litostomatea	Pleurostomatida	Litonotidae	Litonotus	Litonotus pictus	Lynn 2008 (p 365)
+AddRef0031	Stock d4-2	Alveolate	Ciliate	Oligohymenophorea	Peniculida	Parameciidae	Paramecium	Paramecium tetraurelia	Lynn 2008 (p 365)
+MMETSP1018	AH6	Alveolate	Ciliate	Oligohymenophorea	Philasterida	Orchitophryidae	Anophryoides	Anophryoides haemophila	Lynn 2008 (p 365)
+MMETSP1019	AH6	Alveolate	Ciliate	Oligohymenophorea	Philasterida	Orchitophryidae	Anophryoides	Anophryoides haemophila	Lynn 2008 (p 365)
+MMETSP0018	Bbcil	Alveolate	Ciliate	Oligohymenophorea	Philasterida	Uronematidae	Uronema	Uronema sp.	Lynn 2008 (p 365)
+AddRef0042	SB210	Alveolate	Ciliate	Oligohymenophorea	Tetrahymenida	Tetrahymenidae	Tetrahymena	Tetrahymena thermophila	Lynn 2008 (p 365)
+MMETSP0472	LIS	Alveolate	Ciliate	Prostomatea	Prorodontida	Colepidae	Tiarina	Tiarina fusus	Lynn 2008 (p 365)
+MMETSP0208	S3	Alveolate	Ciliate	Spirotrichea	Choreotrichida	Strombidiidae	Strombidium	Strombidium inclinatum	Lynn 2008 (p 365)
+MMETSP0449	ras09	Alveolate	Ciliate	Spirotrichea	Choreotrichida	Strombidiidae	Strombidium	Strombidium rassoulzadegani	Lynn 2008 (p 365)
+MMETSP0126	SPMC142	Alveolate	Ciliate	Spirotrichea	Choreotrichida	Strombidinopsidae	Strombidinopsis	Strombidinopsis acuminatum	Lynn 2008 (p 365)
+MMETSP0463	SopsisLIS2011	Alveolate	Ciliate	Spirotrichea	Choreotrichida	Strombidinopsidae	Strombidinopsis	Strombidinopsis sp	Lynn 2008 (p 365)
+MMETSP1380	CT5	Alveolate	Ciliate	Spirotrichea	Euplotida	Euplotidae	Euplotes	Euplotes crassus	Lynn 2008 (p 365)
+MMETSP0205	TN1	Alveolate	Ciliate	Spirotrichea	Euplotida	Euplotidae	Euplotes	Euplotes focardii	Lynn 2008 (p 365)
+MMETSP0206	TN1	Alveolate	Ciliate	Spirotrichea	Euplotida	Euplotidae	Euplotes	Euplotes focardii	Lynn 2008 (p 365)
+MMETSP0213	FSP1.4	Alveolate	Ciliate	Spirotrichea	Euplotida	Euplotidae	Euplotes	Euplotes harpa	Lynn 2008 (p 365)
+MMETSP0216	Boccale	Alveolate	Ciliate	Spirotrichea	Protocruziida	Protocruziidae	Protocruzia	Protocruzia adherens	Lynn 2008 (p 365)
+AddRef0029	JRB310	Alveolate	Ciliate	Spirotrichea	Sporadotrichida	Oxytrichidae	Oxytricha	Oxytricha trifallax	Lynn 2008 (p 365)
+AddRef0030	SB310	Alveolate	Ciliate	Spirotrichea	Sporadotrichida	Oxytrichidae	Oxytricha	Oxytricha trifallax	Lynn 2008 (p 365)
+AddRef0041	130c	Alveolate	Ciliate	Spirotrichea	Sporadotrichida	Oxytrichidae	Stylonychia	Stylonychia lemnae	Lynn 2008 (p 365)
+MMETSP0123	Fehren 1	Alveolate	Ciliate	Spirotrichea	Tintinnida	Ptychocylididae	Favella	Favella ehrenbergii	Lynn 2008 (p 365)
+MMETSP0434	Fe Narragansett Bay	Alveolate	Ciliate	Spirotrichea	Tintinnida	Ptychocylididae	Favella	Favella taraikaensis	Lynn 2008 (p 365)
+MMETSP0436	Fe Narragansett Bay	Alveolate	Ciliate	Spirotrichea	Tintinnida	Ptychocylididae	Favella	Favella taraikaensis	Lynn 2008 (p 365)
+MMETSP0211	OXSARD2	Alveolate	Ciliate	Spirotrichea	Urostylida	Pseudokeronopsidae	Pseudokeronopsis	Pseudokeronopsis sp.	Lynn 2008 (p 365)
+MMETSP1396	Brazil	Alveolate	Ciliate	Spirotrichea	Urostylida	Pseudokeronopsidae	Pseudokeronopsis	Pseudokeronopsis sp.	Lynn 2008 (p 365)
+MMETSP1317	Undescribed	Alveolate	Ciliate	Uncertain	Uncertain	Uncertain	Uncertain	Uncertain	Not described
+MMETSP0797	DAEP01	Alveolate	Dinoflagellate	Dinophyceae	Dinophysiales	Dinophysiaceae	Dinophysis	Dinophysis acuminata	Mordret et al. 2018 - DinoREF
+MMETSP1074	PA161109	Alveolate	Dinoflagellate	Dinophyceae	Gonyaulacales	Ceratiaceae	Ceratium	Ceratium fusus	Mordret et al. 2018 - DinoREF
+MMETSP1075	PA161109	Alveolate	Dinoflagellate	Dinophyceae	Gonyaulacales	Ceratiaceae	Ceratium	Ceratium fusus	Mordret et al. 2018 - DinoREF
+MMETSP1436	CCMP2222	Alveolate	Dinoflagellate	Dinophyceae	Gonyaulacales	Goniodomataceae	Alexandrium	Alexandrium andersonii	Mordret et al. 2018 - DinoREF
+MMETSP0790	OF101	Alveolate	Dinoflagellate	Dinophyceae	Gonyaulacales	Goniodomataceae	Alexandrium	Alexandrium catenella	Mordret et al. 2018 - DinoREF
+MMETSP0196	CCMP1719	Alveolate	Dinoflagellate	Dinophyceae	Gonyaulacales	Goniodomataceae	Alexandrium	Alexandrium fundyense	Mordret et al. 2018 - DinoREF
+MMETSP0197	CCMP1719	Alveolate	Dinoflagellate	Dinophyceae	Gonyaulacales	Goniodomataceae	Alexandrium	Alexandrium fundyense	Mordret et al. 2018 - DinoREF
+MMETSP0347	CCMP1719	Alveolate	Dinoflagellate	Dinophyceae	Gonyaulacales	Goniodomataceae	Alexandrium	Alexandrium fundyense	Mordret et al. 2018 - DinoREF
+MMETSP0661	AMGDE01CS-322	Alveolate	Dinoflagellate	Dinophyceae	Gonyaulacales	Goniodomataceae	Alexandrium	Alexandrium margalefi	Mordret et al. 2018 - DinoREF
+MMETSP0328	CCMP113	Alveolate	Dinoflagellate	Dinophyceae	Gonyaulacales	Goniodomataceae	Alexandrium	Alexandrium minutum	Mordret et al. 2018 - DinoREF
+MMETSP0093	CCMP3105	Alveolate	Dinoflagellate	Dinophyceae	Gonyaulacales	Goniodomataceae	Alexandrium	Alexandrium monilatum	Mordret et al. 2018 - DinoREF
+MMETSP0095	CCMP3105	Alveolate	Dinoflagellate	Dinophyceae	Gonyaulacales	Goniodomataceae	Alexandrium	Alexandrium monilatum	Mordret et al. 2018 - DinoREF
+MMETSP0096	CCMP3105	Alveolate	Dinoflagellate	Dinophyceae	Gonyaulacales	Goniodomataceae	Alexandrium	Alexandrium monilatum	Mordret et al. 2018 - DinoREF
+MMETSP0097	CCMP3105	Alveolate	Dinoflagellate	Dinophyceae	Gonyaulacales	Goniodomataceae	Alexandrium	Alexandrium monilatum	Mordret et al. 2018 - DinoREF
+MMETSP0378	CCMP1771	Alveolate	Dinoflagellate	Dinophyceae	Gonyaulacales	Goniodomataceae	Alexandrium	Alexandrium tamarense	Mordret et al. 2018 - DinoREF
+MMETSP0380	CCMP1771	Alveolate	Dinoflagellate	Dinophyceae	Gonyaulacales	Goniodomataceae	Alexandrium	Alexandrium tamarense	Mordret et al. 2018 - DinoREF
+MMETSP0382	CCMP1771	Alveolate	Dinoflagellate	Dinophyceae	Gonyaulacales	Goniodomataceae	Alexandrium	Alexandrium tamarense	Mordret et al. 2018 - DinoREF
+MMETSP0384	CCMP1771	Alveolate	Dinoflagellate	Dinophyceae	Gonyaulacales	Goniodomataceae	Alexandrium	Alexandrium tamarense	Mordret et al. 2018 - DinoREF
+MMETSP0766	CAWD 149	Alveolate	Dinoflagellate	Dinophyceae	Gonyaulacales	Goniodomataceae	Gambierdiscus	Gambierdiscus australes	Mordret et al. 2018 - DinoREF
+MMETSP0796	pbaha01	Alveolate	Dinoflagellate	Dinophyceae	Gonyaulacales	Goniodomataceae	Pyrodinium	Pyrodinium bahamense	Mordret et al. 2018 - DinoREF
+MMETSP1439	CCMP409	Alveolate	Dinoflagellate	Dinophyceae	Gonyaulacales	Gonyaulacaceae	Gonyaulax	Gonyaulax spinifera	Mordret et al. 2018 - DinoREF
+MMETSP1032	CCMP 1738	Alveolate	Dinoflagellate	Dinophyceae	Gonyaulacales	Gonyaulacaceae	Lingulodinium	Lingulodinium polyedra	Mordret et al. 2018 - DinoREF
+MMETSP1033	CCMP 1738	Alveolate	Dinoflagellate	Dinophyceae	Gonyaulacales	Gonyaulacaceae	Lingulodinium	Lingulodinium polyedra	Mordret et al. 2018 - DinoREF
+MMETSP1034	CCMP 1738	Alveolate	Dinoflagellate	Dinophyceae	Gonyaulacales	Gonyaulacaceae	Lingulodinium	Lingulodinium polyedra	Mordret et al. 2018 - DinoREF
+MMETSP1035	CCMP 1738	Alveolate	Dinoflagellate	Dinophyceae	Gonyaulacales	Gonyaulacaceae	Lingulodinium	Lingulodinium polyedra	Mordret et al. 2018 - DinoREF
+MMETSP0228	CCCM 535 (=CCMP 1889)	Alveolate	Dinoflagellate	Dinophyceae	Gonyaulacales	Protoceratiaceae	Protoceratium	Protoceratium reticulatum	Mordret et al. 2018 - DinoREF
+MMETSP0229	CCCM 517	Alveolate	Dinoflagellate	Dinophyceae	Gonyaulacales	Pyrocystaceae	Pyrocystis	Pyrocystis lunula	Mordret et al. 2018 - DinoREF
+MMETSP0223	CCCM 885	Alveolate	Dinoflagellate	Dinophyceae	Gymnodiniales	Gymnodiniaceae	Akashiwo	Akashiwo sanguinea	Mordret et al. 2018 - DinoREF
+MMETSP0258	CCMP1314	Alveolate	Dinoflagellate	Dinophyceae	Gymnodiniales	Gymnodiniaceae	Amphidinium	Amphidinium carterae	Mordret et al. 2018 - DinoREF
+MMETSP0259	CCMP1314	Alveolate	Dinoflagellate	Dinophyceae	Gymnodiniales	Gymnodiniaceae	Amphidinium	Amphidinium carterae	Mordret et al. 2018 - DinoREF
+MMETSP0398	CCMP1314	Alveolate	Dinoflagellate	Dinophyceae	Gymnodiniales	Gymnodiniaceae	Amphidinium	Amphidinium carterae	Mordret et al. 2018 - DinoREF
+MMETSP0399	CCMP1314	Alveolate	Dinoflagellate	Dinophyceae	Gymnodiniales	Gymnodiniaceae	Amphidinium	Amphidinium carterae	Mordret et al. 2018 - DinoREF
+MMETSP0689	CS-259	Alveolate	Dinoflagellate	Dinophyceae	Gymnodiniales	Gymnodiniaceae	Amphidinium	Amphidinium massartii	Mordret et al. 2018 - DinoREF
+MMETSP0784	GC744	Alveolate	Dinoflagellate	Dinophyceae	Gymnodiniales	Gymnodiniaceae	Gymnodinium	Gymnodinium catenatum	Mordret et al. 2018 - DinoREF
+MMETSP1148	SPMC 103	Alveolate	Dinoflagellate	Dinophyceae	Gymnodiniales	Gymnodiniaceae	Gyrodinium	Gyrodinium dominans	Mordret et al. 2018 - DinoREF
+MMETSP0224	CCCM 725	Alveolate	Dinoflagellate	Dinophyceae	Gymnodiniales	Gymnodiniaceae	Togula	Togula jolla	Mordret et al. 2018 - DinoREF
+MMETSP0027	CCMP2229	Alveolate	Dinoflagellate	Dinophyceae	Gymnodiniales	Kareniaceae	Karenia	Karenia brevis	Mordret et al. 2018 - DinoREF
+MMETSP0029	CCMP2229	Alveolate	Dinoflagellate	Dinophyceae	Gymnodiniales	Kareniaceae	Karenia	Karenia brevis	Mordret et al. 2018 - DinoREF
+MMETSP0030	CCMP2229	Alveolate	Dinoflagellate	Dinophyceae	Gymnodiniales	Kareniaceae	Karenia	Karenia brevis	Mordret et al. 2018 - DinoREF
+MMETSP0031	CCMP2229	Alveolate	Dinoflagellate	Dinophyceae	Gymnodiniales	Kareniaceae	Karenia	Karenia brevis	Mordret et al. 2018 - DinoREF
+MMETSP0201	Wilson	Alveolate	Dinoflagellate	Dinophyceae	Gymnodiniales	Kareniaceae	Karenia	Karenia brevis	Mordret et al. 2018 - DinoREF
+MMETSP0202	Wilson	Alveolate	Dinoflagellate	Dinophyceae	Gymnodiniales	Kareniaceae	Karenia	Karenia brevis	Mordret et al. 2018 - DinoREF
+MMETSP0527	SP3	Alveolate	Dinoflagellate	Dinophyceae	Gymnodiniales	Kareniaceae	Karenia	Karenia brevis	Mordret et al. 2018 - DinoREF
+MMETSP0528	SP3	Alveolate	Dinoflagellate	Dinophyceae	Gymnodiniales	Kareniaceae	Karenia	Karenia brevis	Mordret et al. 2018 - DinoREF
+MMETSP0573	SP1	Alveolate	Dinoflagellate	Dinophyceae	Gymnodiniales	Kareniaceae	Karenia	Karenia brevis	Mordret et al. 2018 - DinoREF
+MMETSP0574	SP1	Alveolate	Dinoflagellate	Dinophyceae	Gymnodiniales	Kareniaceae	Karenia	Karenia brevis	Mordret et al. 2018 - DinoREF
+MMETSP0648	Wilson	Alveolate	Dinoflagellate	Dinophyceae	Gymnodiniales	Kareniaceae	Karenia	Karenia brevis	Mordret et al. 2018 - DinoREF
+MMETSP0649	Wilson	Alveolate	Dinoflagellate	Dinophyceae	Gymnodiniales	Kareniaceae	Karenia	Karenia brevis	Mordret et al. 2018 - DinoREF
+MMETSP1015	CCMP2283	Alveolate	Dinoflagellate	Dinophyceae	Gymnodiniales	Kareniaceae	Karlodinium	Karlodinium micrum	Mordret et al. 2018 - DinoREF
+MMETSP1016	CCMP2283	Alveolate	Dinoflagellate	Dinophyceae	Gymnodiniales	Kareniaceae	Karlodinium	Karlodinium micrum	Mordret et al. 2018 - DinoREF
+MMETSP1017	CCMP2283	Alveolate	Dinoflagellate	Dinophyceae	Gymnodiniales	Kareniaceae	Karlodinium	Karlodinium micrum	Mordret et al. 2018 - DinoREF
+MMETSP0253	Noctiluca scintillans	Alveolate	Dinoflagellate	Dinophyceae	Noctilucales	Noctilucaceae	Noctiluca	Noctiluca scintillans	Kofoid & Swezy, 1921
+MMETSP0323	Seligo	Alveolate	Dinoflagellate	Dinophyceae	Peridiniales	Crypthecodiniaceae	Crypthecodinium	Crypthecodinium cohnii	Mordret et al. 2018 - DinoREF
+MMETSP0324	Seligo	Alveolate	Dinoflagellate	Dinophyceae	Peridiniales	Crypthecodiniaceae	Crypthecodinium	Crypthecodinium cohnii	Mordret et al. 2018 - DinoREF
+MMETSP0325	Seligo	Alveolate	Dinoflagellate	Dinophyceae	Peridiniales	Crypthecodiniaceae	Crypthecodinium	Crypthecodinium cohnii	Mordret et al. 2018 - DinoREF
+MMETSP0326	Seligo	Alveolate	Dinoflagellate	Dinophyceae	Peridiniales	Crypthecodiniaceae	Crypthecodinium	Crypthecodinium cohnii	Mordret et al. 2018 - DinoREF
+MMETSP1441	CCMP445	Alveolate	Dinoflagellate	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Heterocapsa arctica	Mordret et al. 2018 - DinoREF
+MMETSP0503	SCCAP K-0483	Alveolate	Dinoflagellate	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Heterocapsa rotundata	Mordret et al. 2018 - DinoREF
+MMETSP0448	CCMP 448	Alveolate	Dinoflagellate	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Heterocapsa triquestra	Mordret et al. 2018 - DinoREF
+MMETSP1462	RCC3387	Alveolate	Dinoflagellate	Dinophyceae	Peridiniales	Incertae sedis	Brandtodinium	Brandtodinium nutriculum	Mordret et al. 2018 - DinoREF
+MMETSP0118	CCAP 1116/3	Alveolate	Dinoflagellate	Dinophyceae	Peridiniales	Incertae sedis	Glenodinium	Glenodinium foliaceum	Mordret et al. 2018 - DinoREF
+MMETSP0119	CCAP 1116/3	Alveolate	Dinoflagellate	Dinophyceae	Peridiniales	Incertae sedis	Glenodinium	Glenodinium foliaceum	Mordret et al. 2018 - DinoREF
+MMETSP0116	CSIRO CS-38	Alveolate	Dinoflagellate	Dinophyceae	Peridiniales	Kryptoperidiniaceae	Durinskia	Durinskia baltica	Mordret et al. 2018 - DinoREF
+MMETSP0117	CSIRO CS-38	Alveolate	Dinoflagellate	Dinophyceae	Peridiniales	Kryptoperidiniaceae	Durinskia	Durinskia baltica	Mordret et al. 2018 - DinoREF
+MMETSP0120	CCMP 1326	Alveolate	Dinoflagellate	Dinophyceae	Peridiniales	Kryptoperidiniaceae	Kryptoperidinium	Kryptoperidinium foliaceum	Mordret et al. 2018 - DinoREF
+MMETSP0121	CCMP 1326	Alveolate	Dinoflagellate	Dinophyceae	Peridiniales	Kryptoperidiniaceae	Kryptoperidinium	Kryptoperidinium foliaceum	Mordret et al. 2018 - DinoREF
+MMETSP0370	PAER-2	Alveolate	Dinoflagellate	Dinophyceae	Peridiniales	Peridiniaceae	Peridinium	Peridinium aciculiferum	Mordret et al. 2018 - DinoREF
+MMETSP0371	PAER-2	Alveolate	Dinoflagellate	Dinophyceae	Peridiniales	Peridiniaceae	Peridinium	Peridinium aciculiferum	Mordret et al. 2018 - DinoREF
+MMETSP1147	SPMC 104	Alveolate	Dinoflagellate	Dinophyceae	Peridiniales	Podolampadaceae	Lessardia	Lessardia elongata	Mordret et al. 2018 - DinoREF
+MMETSP0359	SHTV-5	Alveolate	Dinoflagellate	Dinophyceae	Peridiniales	Thoracosphaeraceae	Scrippsiella	Scrippsiella Hangoei	Mordret et al. 2018 - DinoREF
+MMETSP0360	SHTV-5	Alveolate	Dinoflagellate	Dinophyceae	Peridiniales	Thoracosphaeraceae	Scrippsiella	Scrippsiella Hangoei	Mordret et al. 2018 - DinoREF
+MMETSP0361	SHTV-5	Alveolate	Dinoflagellate	Dinophyceae	Peridiniales	Thoracosphaeraceae	Scrippsiella	Scrippsiella Hangoei	Mordret et al. 2018 - DinoREF
+MMETSP0367	SHHI-4	Alveolate	Dinoflagellate	Dinophyceae	Peridiniales	Thoracosphaeraceae	Scrippsiella	Scrippsiella hangoei-like	Mordret et al. 2018 - DinoREF
+MMETSP0368	SHHI-4	Alveolate	Dinoflagellate	Dinophyceae	Peridiniales	Thoracosphaeraceae	Scrippsiella	Scrippsiella hangoei-like	Mordret et al. 2018 - DinoREF
+MMETSP0369	SHHI-4	Alveolate	Dinoflagellate	Dinophyceae	Peridiniales	Thoracosphaeraceae	Scrippsiella	Scrippsiella hangoei-like	Mordret et al. 2018 - DinoREF
+MMETSP0270	CCMP3099	Alveolate	Dinoflagellate	Dinophyceae	Peridiniales	Thoracosphaeraceae	Scrippsiella	Scrippsiella trochoidea	Mordret et al. 2018 - DinoREF
+MMETSP0271	CCMP3099	Alveolate	Dinoflagellate	Dinophyceae	Peridiniales	Thoracosphaeraceae	Scrippsiella	Scrippsiella trochoidea	Mordret et al. 2018 - DinoREF
+MMETSP0272	CCMP3099	Alveolate	Dinoflagellate	Dinophyceae	Peridiniales	Thoracosphaeraceae	Scrippsiella	Scrippsiella trochoidea	Mordret et al. 2018 - DinoREF
+MMETSP0225	CCCM 670 (=CCMP 1069)	Alveolate	Dinoflagellate	Dinophyceae	Peridiniales	Thoracosphaeraceae	Thoracosphaera	Thoracosphaera heimii	Mordret et al. 2018 - DinoREF
+MMETSP1036	3D9	Alveolate	Dinoflagellate	Dinophyceae	Peridiniales	Amphidomataceans	Azadinium	Azadinium spinosum	Mordret et al. 2018 - DinoREF
+MMETSP1037	3D9	Alveolate	Dinoflagellate	Dinophyceae	Peridiniales	Amphidomataceans	Azadinium	Azadinium spinosum	Mordret et al. 2018 - DinoREF
+MMETSP1038	3D9	Alveolate	Dinoflagellate	Dinophyceae	Peridiniales	Amphidomataceans	Azadinium	Azadinium spinosum	Mordret et al. 2018 - DinoREF
+MMETSP0252	CCMP 684	Alveolate	Dinoflagellate	Dinophyceae	Prorocentrales	Prorocentrales	Prorocentrum	Prorocentrum lima	Mordret et al. 2018 - DinoREF
+MMETSP0251	CCCM 845	Alveolate	Dinoflagellate	Dinophyceae	Prorocentrales	Prorocentrales	Prorocentrum	Prorocentrum micans	Mordret et al. 2018 - DinoREF
+MMETSP0053	CCMP1329	Alveolate	Dinoflagellate	Dinophyceae	Prorocentrales	Prorocentrales	Prorocentrum	Prorocentrum minimum	Mordret et al. 2018 - DinoREF
+MMETSP0055	CCMP1329	Alveolate	Dinoflagellate	Dinophyceae	Prorocentrales	Prorocentrales	Prorocentrum	Prorocentrum minimum	Mordret et al. 2018 - DinoREF
+MMETSP0056	CCMP1329	Alveolate	Dinoflagellate	Dinophyceae	Prorocentrales	Prorocentrales	Prorocentrum	Prorocentrum minimum	Mordret et al. 2018 - DinoREF
+MMETSP0057	CCMP1329	Alveolate	Dinoflagellate	Dinophyceae	Prorocentrales	Prorocentrales	Prorocentrum	Prorocentrum minimum	Mordret et al. 2018 - DinoREF
+MMETSP0267	CCMP2233	Alveolate	Dinoflagellate	Dinophyceae	Prorocentrales	Prorocentrales	Prorocentrum	Prorocentrum minimum	Mordret et al. 2018 - DinoREF
+MMETSP0268	CCMP2233	Alveolate	Dinoflagellate	Dinophyceae	Prorocentrales	Prorocentrales	Prorocentrum	Prorocentrum minimum	Mordret et al. 2018 - DinoREF
+MMETSP0269	CCMP2233	Alveolate	Dinoflagellate	Dinophyceae	Prorocentrales	Prorocentrales	Prorocentrum	Prorocentrum minimum	Mordret et al. 2018 - DinoREF
+MMETSP1338	RCC1491	Alveolate	Dinoflagellate	Dinophyceae	Suessiales	Suessiaceae	Pelagodinium	Pelagodinium	Mordret et al. 2018 - DinoREF
+MMETSP0227	CCMP 1383	Alveolate	Dinoflagellate	Dinophyceae	Suessiales	Suessiaceae	Polarella	Polarella glacialis	Mordret et al. 2018 - DinoREF
+MMETSP1440	CCMP2088	Alveolate	Dinoflagellate	Dinophyceae	Suessiales	Suessiaceae	Polarella	Polarella glacialis	Mordret et al. 2018 - DinoREF
+MMETSP0132	CCMP2468	Alveolate	Dinoflagellate	Dinophyceae	Suessiales	Suessiaceae	Symbiodinium	Symbiodinium kawagutii	Mordret et al. 2018 - DinoREF
+MMETSP0133	CCMP2468	Alveolate	Dinoflagellate	Dinophyceae	Suessiales	Suessiaceae	Symbiodinium	Symbiodinium kawagutii	Mordret et al. 2018 - DinoREF
+MMETSP0134	CCMP2468	Alveolate	Dinoflagellate	Dinophyceae	Suessiales	Suessiaceae	Symbiodinium	Symbiodinium kawagutii	Mordret et al. 2018 - DinoREF
+MMETSP0135	CCMP2468	Alveolate	Dinoflagellate	Dinophyceae	Suessiales	Suessiaceae	Symbiodinium	Symbiodinium kawagutii	Mordret et al. 2018 - DinoREF
+MMETSP1110	CCMP421	Alveolate	Dinoflagellate	Dinophyceae	Suessiales	Suessiaceae	Symbiodinium	Symbiodinium sp.	Mordret et al. 2018 - DinoREF
+MMETSP1115	CCMP2430	Alveolate	Dinoflagellate	Dinophyceae	Suessiales	Suessiaceae	Symbiodinium	Symbiodinium sp.	Mordret et al. 2018 - DinoREF
+MMETSP1116	CCMP2430	Alveolate	Dinoflagellate	Dinophyceae	Suessiales	Suessiaceae	Symbiodinium	Symbiodinium sp.	Mordret et al. 2018 - DinoREF
+MMETSP1117	CCMP2430	Alveolate	Dinoflagellate	Dinophyceae	Suessiales	Suessiaceae	Symbiodinium	Symbiodinium sp.	Mordret et al. 2018 - DinoREF
+MMETSP1122	Mp	Alveolate	Dinoflagellate	Dinophyceae	Suessiales	Suessiaceae	Symbiodinium	Symbiodinium sp.	Mordret et al. 2018 - DinoREF
+MMETSP1123	Mp	Alveolate	Dinoflagellate	Dinophyceae	Suessiales	Suessiaceae	Symbiodinium	Symbiodinium sp.	Mordret et al. 2018 - DinoREF
+MMETSP1124	Mp	Alveolate	Dinoflagellate	Dinophyceae	Suessiales	Suessiaceae	Symbiodinium	Symbiodinium sp.	Mordret et al. 2018 - DinoREF
+MMETSP1125	Mp	Alveolate	Dinoflagellate	Dinophyceae	Suessiales	Suessiaceae	Symbiodinium	Symbiodinium sp.	Mordret et al. 2018 - DinoREF
+MMETSP1367	C1	Alveolate	Dinoflagellate	Dinophyceae	Suessiales	Suessiaceae	Symbiodinium	Symbiodinium sp.	Mordret et al. 2018 - DinoREF
+MMETSP1369	C1	Alveolate	Dinoflagellate	Dinophyceae	Suessiales	Suessiaceae	Symbiodinium	Symbiodinium sp.	Mordret et al. 2018 - DinoREF
+MMETSP1370	C15	Alveolate	Dinoflagellate	Dinophyceae	Suessiales	Suessiaceae	Symbiodinium	Symbiodinium sp.	Mordret et al. 2018 - DinoREF
+MMETSP1371	C15	Alveolate	Dinoflagellate	Dinophyceae	Suessiales	Suessiaceae	Symbiodinium	Symbiodinium sp.	Mordret et al. 2018 - DinoREF
+MMETSP1374	cladeA	Alveolate	Dinoflagellate	Dinophyceae	Suessiales	Suessiaceae	Symbiodinium	Symbiodinium sp.	Mordret et al. 2018 - DinoREF
+MMETSP1377	D1a	Alveolate	Dinoflagellate	Dinophyceae	Suessiales	Suessiaceae	Symbiodinium	Symbiodinium sp.	Mordret et al. 2018 - DinoREF
+MMETSP0044	CCMP1788	Alveolate	Dinoflagellate	Oxyrrhids	Oxyrrhinales	Incertae sedis	Oxyrrhis	Oxyrrhis marina	Archibald 2018
+MMETSP0451	CCMP1795	Alveolate	Dinoflagellate	Oxyrrhids	Oxyrrhinales	Incertae sedis	Oxyrrhis	Oxyrrhis marina	Archibald 2018
+MMETSP0452	CCMP1795	Alveolate	Dinoflagellate	Oxyrrhids	Oxyrrhinales	Incertae sedis	Oxyrrhis	Oxyrrhis marina	Archibald 2018
+MMETSP0468	Oxyrrhis marina	Alveolate	Dinoflagellate	Oxyrrhids	Oxyrrhinales	Incertae sedis	Oxyrrhis	Oxyrrhis marina	Archibald 2018
+MMETSP0469	Oxyrrhis marina	Alveolate	Dinoflagellate	Oxyrrhids	Oxyrrhinales	Incertae sedis	Oxyrrhis	Oxyrrhis marina	Archibald 2018
+MMETSP0470	Oxyrrhis marina	Alveolate	Dinoflagellate	Oxyrrhids	Oxyrrhinales	Incertae sedis	Oxyrrhis	Oxyrrhis marina	Archibald 2018
+MMETSP0471	Oxyrrhis marina	Alveolate	Dinoflagellate	Oxyrrhids	Oxyrrhinales	Incertae sedis	Oxyrrhis	Oxyrrhis marina	Archibald 2018
+MMETSP1424	LB1974	Alveolate	Dinoflagellate	Oxyrrhids	Oxyrrhinales	Incertae sedis	Oxyrrhis	Oxyrrhis marina	Archibald 2018
+MMETSP1425	LB1974	Alveolate	Dinoflagellate	Oxyrrhids	Oxyrrhinales	Incertae sedis	Oxyrrhis	Oxyrrhis marina	Archibald 2018
+MMETSP1426	LB1974	Alveolate	Dinoflagellate	Oxyrrhids	Oxyrrhinales	Incertae sedis	Oxyrrhis	Oxyrrhis marina	Archibald 2018
+MMETSP0924	ATCC PRA-65	Alveolate	Dinoflagellate	Perkinsids	Incertae sedis	Incertae sedis	Perkinsus	Perkinsus chesapeaki	Archibald 2018
+MMETSP0925	ATCC PRA-65	Alveolate	Dinoflagellate	Perkinsids	Incertae sedis	Incertae sedis	Perkinsus	Perkinsus chesapeaki	Archibald 2018
+AddRef0033	ATCC50983	Alveolate	Dinoflagellate	Perkinsids	Incertae sedis	Incertae sedis	Perkinsus	Perkinsus marinus	Archibald 2018
+MMETSP0922	ATCC 50439	Alveolate	Dinoflagellate	Perkinsids	Incertae sedis	Incertae sedis	Perkinsus	Perkinsus marinus	Archibald 2018
+MMETSP0923	ATCC 50439	Alveolate	Dinoflagellate	Perkinsids	Incertae sedis	Incertae sedis	Perkinsus	Perkinsus marinus	Archibald 2018
+MMETSP0795	Ameob2	Alveolate	Dinoflagellate	Syndinians	Syndiniaceae	Amoebophryaceae	Amoebophrya	Amoebophrya sp.	Archibald 2018
+MMETSP0420	Pessonella sp. PRA-29	Amoebozoa	Discosea	Flabellinia	Incertae sedis	Incertae sedis	Pessonella	Pessonella sp.	Archibald 2018
+MMETSP0161	SoJaBio B1-5/56/2	Amoebozoa	Discosea	Flabellinia	Incertae sedis	Incertae sedis	Neoparamoeba	Neoparamoeba aestuarina	Archibald 2018
+MMETSP0151	621/1 / CCAP 1560/9	Amoebozoa	Discosea	Flabellinia	Incertae sedis	Incertae sedis	Paramoeba	Paramoeba atlantica	Archibald 2018
+MMETSP0405	Am-I-7 wt	Amoebozoa	Discosea	Flabellinia	Incertae sedis	Incertae sedis	Trichosphaerium	Trichosphaerium sp	Archibald 2018
+MMETSP0166	DIVA3 518/3/11/1/6	Amoebozoa	Discosea	Flabellinia	Incertae sedis	Incertae sedis	Vannella	Vannella robusta	Archibald 2018
+MMETSP0168	DIVA3 517/6/12	Amoebozoa	Discosea	Flabellinia	Incertae sedis	Incertae sedis	Vannella	Vannella sp.	Archibald 2018
+MMETSP0173	DIVA3 564/2	Amoebozoa	Discosea	Flabellinia	Incertae sedis	Incertae sedis	Vexillifera	Vexillifera sp.	Archibald 2018
+MMETSP0439	Chinc5	Amoebozoa	Discosea	Incertae sedis	Incertae sedis	Incertae sedis	Stereomyxa	Dracoamoeba jormungandri (formerly Stereomyxa ramosa)	Archibald 2018
+AddRef0001	Neff	Amoebozoa	Discosea	Longamoebia	Incertae sedis	Incertae sedis	Acanthamoebidae	Acanthamoeba castellanii	Archibald 2018
+MMETSP0417	BSH-02190019	Amoebozoa	Discosea	Longamoebia	Incertae sedis	Incertae sedis	Mayorella	Mayorella sp	Archibald 2018
+MMETSP0447	BSH-02190019	Amoebozoa	Discosea	Stygamoebida	Incertae sedis	Incertae sedis	Stygamoeba	Stygamoeba regulata	Archibald 2018
+MMETSP0437	ATCC50979	Amoebozoa	Tubulinea	Arcellinida	Incertae sedis	Incertae sedis	Sexangularia	Sexangularia sp.	Archibald 2018
+MMETSP0413	NC-AS-23-1	Amoebozoa	Variosea	Gracilipodida	Incertae sedis	Incertae sedis	Filamoeba	Filamoeba nolandi	Archibald 2018
+MMETSP1180	CCMP681	Archaeplastida	Chlorophyta	Chlorophyceae	Chlamydomonadales	Chlamydomonadaceae	Chlamydomonas	Chlamydomonas cf sp	Leliaert et al. 2012
+MMETSP1392	SAG 11-48b	Archaeplastida	Chlorophyta	Chlorophyceae	Chlamydomonadales	Chlamydomonadaceae	Chlamydomonas	Chlamydomonas chlamydogama	Leliaert et al. 2012
+MMETSP0063	CCMP219	Archaeplastida	Chlorophyta	Chlorophyceae	Chlamydomonadales	Chlamydomonadaceae	Chlamydomonas	Chlamydomonas euryale	Leliaert et al. 2012
+MMETSP1391	SAG 11-49	Archaeplastida	Chlorophyta	Chlorophyceae	Chlamydomonadales	Chlamydomonadaceae	Chlamydomonas	Chlamydomonas leiostraca	Leliaert et al. 2012
+AddRef0010	CC-503 cw92 mt+	Archaeplastida	Chlorophyta	Chlorophyceae	Chlamydomonadales	Chlamydomonadaceae	Chlamydomonas	Chlamydomonas reinhardtii	Leliaert et al. 2012
+MMETSP1126	CCMP1320	Archaeplastida	Chlorophyta	Chlorophyceae	Chlamydomonadales	Dunaliellaceae	Dunaliella	Dunaliella tertiolecta	Leliaert et al. 2012
+MMETSP1127	CCMP1320	Archaeplastida	Chlorophyta	Chlorophyceae	Chlamydomonadales	Dunaliellaceae	Dunaliella	Dunaliella tertiolecta	Leliaert et al. 2012
+MMETSP1128	CCMP1320	Archaeplastida	Chlorophyta	Chlorophyceae	Chlamydomonadales	Dunaliellaceae	Dunaliella	Dunaliella tertiolecta	Leliaert et al. 2012
+MMETSP0052	SAG 63-3	Archaeplastida	Chlorophyta	Chlorophyceae	Chlamydomonadales	Dunaliellaceae	Polytomella	Polytomella parva	Leliaert et al. 2012
+MMETSP1086	SAG4.97	Archaeplastida	Chlorophyta	Chlorophyceae	Tetrasporales	Incertae sedis	Cyanoptyche	Cyanoptyche gloeocystis	Leliaert et al. 2012
+MMETSP0804	CCMP880	Archaeplastida	Chlorophyta	Prasinophyte	Chlorodendrales	Chlorodendrophyceae	Chlorodendraceae	Tetraselmis astigmatica	Leliaert et al. 2012
+MMETSP0491	PLY429	Archaeplastida	Chlorophyta	Prasinophyte	Chlorodendrales	Chlorodendrophyceae	Chlorodendraceae	Tetraselmis chuii	Leliaert et al. 2012
+MMETSP0419	GSL018	Archaeplastida	Chlorophyta	Prasinophyte	Chlorodendrales	Chlorodendrophyceae	Chlorodendraceae	Tetraselmis sp.	Leliaert et al. 2012
+MMETSP0817	LANL1001	Archaeplastida	Chlorophyta	Prasinophyte	Chlorodendrales	Chlorodendrophyceae	Chlorodendraceae	Tetraselmis striata	Leliaert et al. 2012
+MMETSP0818	LANL1001	Archaeplastida	Chlorophyta	Prasinophyte	Chlorodendrales	Chlorodendrophyceae	Chlorodendraceae	Tetraselmis striata	Leliaert et al. 2012
+MMETSP0819	LANL1001	Archaeplastida	Chlorophyta	Prasinophyte	Chlorodendrales	Chlorodendrophyceae	Chlorodendraceae	Tetraselmis striata	Leliaert et al. 2012
+MMETSP0820	LANL1001	Archaeplastida	Chlorophyta	Prasinophyte	Chlorodendrales	Chlorodendrophyceae	Chlorodendraceae	Tetraselmis striata	Leliaert et al. 2012
+MMETSP0803	CCMP3273	Archaeplastida	Chlorophyta	Prasinophyte	Dolichomastigales	Dolichomastigaceae	Crustomastix	Crustomastix stigmata	Leliaert et al. 2012
+MMETSP0033	CCMP3274	Archaeplastida	Chlorophyta	Prasinophyte	Dolichomastigales	Dolichomastigaceae	Dolichomastix	Dolichomastix tenuilepis	Leliaert et al. 2012
+MMETSP1399	CCMP1898	Archaeplastida	Chlorophyta	Prasinophyte	Mamiellales	Bathycoccaceae	Bathycoccus	Bathycoccus prasinos	Leliaert et al. 2012
+MMETSP1460	RCC716	Archaeplastida	Chlorophyta	Prasinophyte	Mamiellales	Bathycoccaceae	Bathycoccus	Bathycoccus prasinos	Leliaert et al. 2012
+AddRef0028	CCE9901	Archaeplastida	Chlorophyta	Prasinophyte	Mamiellales	Bathycoccaceae	Ostreococcus	Ostreococcus lucimarinus	Leliaert et al. 2012
+MMETSP0939	clade-A-BCC118000	Archaeplastida	Chlorophyta	Prasinophyte	Mamiellales	Bathycoccaceae	Ostreococcus	Ostreococcus lucimarinus	Leliaert et al. 2012
+MMETSP0929	clade-D-RCC2572	Archaeplastida	Chlorophyta	Prasinophyte	Mamiellales	Bathycoccaceae	Ostreococcus	Ostreococcus mediterraneus	Leliaert et al. 2012
+MMETSP0930	clade-D-RCC1621	Archaeplastida	Chlorophyta	Prasinophyte	Mamiellales	Bathycoccaceae	Ostreococcus	Ostreococcus mediterraneus	Leliaert et al. 2012
+MMETSP0932	clade-D-RCC2596	Archaeplastida	Chlorophyta	Prasinophyte	Mamiellales	Bathycoccaceae	Ostreococcus	Ostreococcus mediterraneus	Leliaert et al. 2012
+MMETSP0936	clade-D-RCC2573	Archaeplastida	Chlorophyta	Prasinophyte	Mamiellales	Bathycoccaceae	Ostreococcus	Ostreococcus mediterraneus	Leliaert et al. 2012
+MMETSP0937	clade-D-RCC2593	Archaeplastida	Chlorophyta	Prasinophyte	Mamiellales	Bathycoccaceae	Ostreococcus	Ostreococcus mediterraneus	Leliaert et al. 2012
+MMETSP0938	clade-D-RCC1107	Archaeplastida	Chlorophyta	Prasinophyte	Mamiellales	Bathycoccaceae	Ostreococcus	Ostreococcus mediterraneus	Leliaert et al. 2012
+MMETSP0933	BCC99000	Archaeplastida	Chlorophyta	Prasinophyte	Mamiellales	Bathycoccaceae	Ostreococcus	Ostreococcus prasinos	Leliaert et al. 2012
+MMETSP1106	SL-175	Archaeplastida	Chlorophyta	Prasinophyte	Mamiellales	Mamiellaceae	Mantoniella	Mantoniella antarctica	Leliaert et al. 2012
+MMETSP1468	CCMP1436	Archaeplastida	Chlorophyta	Prasinophyte	Mamiellales	Mamiellaceae	Mantoniella	Mantoniella sp	Leliaert et al. 2012
+MMETSP1327	RCC2306	Archaeplastida	Chlorophyta	Prasinophyte	Mamiellales	Mamiellaceae	Micromonas	Micromonas pusilla	Leliaert et al. 2012
+MMETSP1401	CCAC1681	Archaeplastida	Chlorophyta	Prasinophyte	Mamiellales	Mamiellaceae	Micromonas	Micromonas pusilla	Leliaert et al. 2012
+MMETSP1402	RCC1614	Archaeplastida	Chlorophyta	Prasinophyte	Mamiellales	Mamiellaceae	Micromonas	Micromonas pusilla	Leliaert et al. 2012
+MMETSP1403	CCMP1723	Archaeplastida	Chlorophyta	Prasinophyte	Mamiellales	Mamiellaceae	Micromonas	Micromonas pusilla	Leliaert et al. 2012
+MMETSP1080	CCMP1646	Archaeplastida	Chlorophyta	Prasinophyte	Mamiellales	Mamiellaceae	Micromonas	Micromonas sp	Leliaert et al. 2012
+MMETSP1393	CS-222	Archaeplastida	Chlorophyta	Prasinophyte	Mamiellales	Mamiellaceae	Micromonas	Micromonas sp	Leliaert et al. 2012
+MMETSP1404	CCMP494	Archaeplastida	Chlorophyta	Prasinophyte	Mamiellales	Mamiellaceae	Micromonas	Micromonas sp	Leliaert et al. 2012
+MMETSP0802	CCMP2099	Archaeplastida	Chlorophyta	Prasinophyte	Mamiellales	Mamiellaceae	Micromonas	Micromonas sp.	Leliaert et al. 2012
+MMETSP1082	NEPCC29	Archaeplastida	Chlorophyta	Prasinophyte	Mamiellales	Mamiellaceae	Micromonas	Micromonas sp.	Leliaert et al. 2012
+MMETSP1084	RCC472	Archaeplastida	Chlorophyta	Prasinophyte	Mamiellales	Mamiellaceae	Micromonas	Micromonas sp.	Leliaert et al. 2012
+MMETSP1386	NEPCC29	Archaeplastida	Chlorophyta	Prasinophyte	Mamiellales	Mamiellaceae	Micromonas	Micromonas sp.	Leliaert et al. 2012
+MMETSP1387	RCC472	Archaeplastida	Chlorophyta	Prasinophyte	Mamiellales	Mamiellaceae	Micromonas	Micromonas sp.	Leliaert et al. 2012
+MMETSP1390	CCMP2099	Archaeplastida	Chlorophyta	Prasinophyte	Mamiellales	Mamiellaceae	Micromonas	Micromonas sp.	Leliaert et al. 2012
+MMETSP1400	RCC451	Archaeplastida	Chlorophyta	Prasinophyte	Mamiellales	Mamiellaceae	Micromonas	Micromonas sp.	Leliaert et al. 2012
+MMETSP1326	RCC2288	Archaeplastida	Chlorophyta	Prasinophyte	Mamiellales	Uncertain	Uncertain	Uncertain species nov.	Leliaert et al. 2012
+MMETSP0034	CCMP717	Archaeplastida	Chlorophyta	Prasinophyte	Nephroselmidales	Nephroselmidophyceae	Nephroselmis	Nephroselmis pyriformis	Leliaert et al. 2012
+MMETSP0807	CCMP1897	Archaeplastida	Chlorophyta	Prasinophyte	Picocystales	Incertae sedis	Picocystis	Picocystis salinarum	Leliaert et al. 2012
+MMETSP1159	CCMP1897	Archaeplastida	Chlorophyta	Prasinophyte	Picocystales	Incertae sedis	Picocystis	Picocystis salinarum	Leliaert et al. 2012
+MMETSP0941	CCMP1194	Archaeplastida	Chlorophyta	Prasinophyte	Prasinococcales	Prasinococcaceae	Prasinococcus	Prasinococcus capsulatus	Leliaert et al. 2012
+MMETSP0806	CCMP1413	Archaeplastida	Chlorophyta	Prasinophyte	Prasinococcales	Prasinococcaceae	Prasinoderma	Prasinoderma coloniale	Leliaert et al. 2012
+MMETSP1315	RCC927	Archaeplastida	Chlorophyta	Prasinophyte	Prasinococcales	Prasinococcaceae	Prasinoderma	Prasinoderma singularis	Leliaert et al. 2012
+MMETSP1316	RCC2336	Archaeplastida	Chlorophyta	Prasinophyte	Pycnococcaceae	Incertae sedis	Pycnococcus	Pycnococcus provasolii	Leliaert et al. 2012
+MMETSP1459	RCC931	Archaeplastida	Chlorophyta	Prasinophyte	Pycnococcaceae	Incertae sedis	Pycnococcus	Pycnococcus provasolii	Leliaert et al. 2012
+MMETSP1471	RCC733	Archaeplastida	Chlorophyta	Prasinophyte	Pycnococcaceae	Incertae sedis	Pycnococcus	Pycnococcus provasolii	Leliaert et al. 2012
+MMETSP1472	RCC251	Archaeplastida	Chlorophyta	Prasinophyte	Pycnococcaceae	Incertae sedis	Pycnococcus	Pycnococcus provasolii	Leliaert et al. 2012
+MMETSP1085	CCMP1998	Archaeplastida	Chlorophyta	Prasinophyte	Pycnococcaceae	Incertae sedis	Pycnococcus	Pycnococcus sp	Leliaert et al. 2012
+MMETSP1438	CCMP1384	Archaeplastida	Chlorophyta	Prasinophyte	Pyramimonadales	Pterospermataceae	Pterosperma	Pterosperma	Leliaert et al. 2012
+MMETSP1081	CCMP720	Archaeplastida	Chlorophyta	Prasinophyte	Pyramimonadales	Pyramimonadaceae	Pyramimonas	Pyramimonas amylifera	Leliaert et al. 2012
+MMETSP1169	CCMP722	Archaeplastida	Chlorophyta	Prasinophyte	Pyramimonadales	Pyramimonadaceae	Pyramimonas	Pyramimonas obovata	Leliaert et al. 2012
+MMETSP0058	CCMP726	Archaeplastida	Chlorophyta	Prasinophyte	Pyramimonadales	Pyramimonadaceae	Pyramimonas	Pyramimonas parkeae	Leliaert et al. 2012
+MMETSP0059	CCMP726	Archaeplastida	Chlorophyta	Prasinophyte	Pyramimonadales	Pyramimonadaceae	Pyramimonas	Pyramimonas parkeae	Leliaert et al. 2012
+MMETSP1445	CCMP2087	Archaeplastida	Chlorophyta	Prasinophyte	Pyramimonadales	Pyramimonadaceae	Pyramimonas	Pyramimonas sp.	Leliaert et al. 2012
+MMETSP1161	CCMP2329	Archaeplastida	Chlorophyta	Trebouxiophyceae	Incertae sedis	Incertae sedis	Picochlorum	Picochlorum oklahomensis	Leliaert et al. 2012
+MMETSP1330	RCC944	Archaeplastida	Chlorophyta	Trebouxiophyceae	Incertae sedis	Incertae sedis	Picochlorum	Picochlorum sp.	Leliaert et al. 2012
+MMETSP1473	RCC1054	Archaeplastida	Chlorophyta	Trebouxiophyceae	Prasiola	Prasiolaceae	Stichococcus	Stichococcus sp	Leliaert et al. 2012
+MMETSP1309	RCC998	Archaeplastida	Chlorophyta	Uncertain	Uncertain	Uncertain	Uncertain	Uncertain	Not described
+MMETSP1310	RCC2339	Archaeplastida	Chlorophyta	Uncertain	Uncertain	Uncertain	Uncertain	Uncertain	Not described
+MMETSP1311	RCC856	Archaeplastida	Chlorophyta	Uncertain	Uncertain	Uncertain	Uncertain	Uncertain	Not described
+MMETSP1312	RCC2335	Archaeplastida	Chlorophyta	Uncertain	Uncertain	Uncertain	Uncertain	Uncertain	Not described
+MMETSP1446	CCMP2111	Archaeplastida	Chlorophyta	Uncertain	Uncertain	Uncertain	Uncertain	Uncertain	Not described
+MMETSP1453	RCC701	Archaeplastida	Chlorophyta	Uncertain	Uncertain	Uncertain	Uncertain	Uncertain	Not described
+MMETSP1456	RCC1871	Archaeplastida	Chlorophyta	Uncertain	Uncertain	Uncertain	Uncertain	Uncertain	Not described
+MMETSP1469	CCMP1205	Archaeplastida	Chlorophyta	Uncertain	Uncertain	Uncertain	Uncertain	Uncertain	Not described
+MMETSP1470	CCMP2175	Archaeplastida	Chlorophyta	Uncertain	Uncertain	Uncertain	Uncertain	Uncertain	Not described
+MMETSP1475	CCMP1999	Archaeplastida	Chlorophyta	Uncertain	Uncertain	Uncertain	Uncertain	Uncertain	Not described
+MMETSP0308	SAG 46.84	Archaeplastida	Glaucophyta	Glaucophyceae	Glaucocystales	Glaucocystaceae	Gloeochaete	Gloeochaete wittrockiana	Archibald 2018
+MMETSP1089	SAG46.84	Archaeplastida	Glaucophyta	Glaucophyceae	Glaucocystales	Glaucocystaceae	Gloeochaete	Gloeochaete wittrockiana	Archibald 2018
+MMETSP0312	SAG 36.94	Archaeplastida	Rhodophyta	Compsopogonophyceae	Compsopogonales	Compsopogonaceae	Compsopogon	Compsopogon coeruleus	Archibald 2018
+MMETSP1450	CCMP3234	Archaeplastida	Rhodophyta	Compsopogonophyceae	Erythropeltidales	Incertae sedis	Madagascaria	Madagascaria erythrocladiodes	Archibald 2018
+AddRef0015	10D	Archaeplastida	Rhodophyta	Cyanidiophyceae	Cyanidiales	Cyanidiaceae	Cyanidioschyzon	Cyanidioschyzon merolae	Archibald 2018
+AddRef0019	074W	Archaeplastida	Rhodophyta	Cyanidiophyceae	Cyanidiales	Galdieriaceae	Galdieria	Galdieria sulphuraria	Archibald 2018
+AddRef0011	Stackhouse	Archaeplastida	Rhodophyta	Florideophyceae	Gigartinales	Gigartinaceae	Chondrus	Chondrus crispus	Archibald 2018
+MMETSP1353	CCMP3124	Archaeplastida	Rhodophyta	Porphyridiophyceae	Porphyridiales	Porphyridiaceae	Erythrolobus	Erythrolobus australicus	Archibald 2018
+MMETSP1354	CCMP3276	Archaeplastida	Rhodophyta	Porphyridiophyceae	Porphyridiales	Porphyridiaceae	Erythrolobus	Erythrolobus madagascarensis	Archibald 2018
+MMETSP1172	CCMP3278	Archaeplastida	Rhodophyta	Porphyridiophyceae	Porphyridiales	Porphyridiaceae	Timspurckia	Timspurckia oligopyrenoides	Archibald 2018
+MMETSP0313	SAG 1380-2	Archaeplastida	Rhodophyta	Porphyridiophyceae	Porphyridiales	Porphyridiaceae	Porphyridium	Porphyridium aerugineum	Archibald 2018
+MMETSP0167	CCMP736	Archaeplastida	Rhodophyta	Rhodellophyceae	Rhodellales	Rhodellaceae	Rhodella	Rhodella maculata	Archibald 2018
+MMETSP0314	CCMP736	Archaeplastida	Rhodophyta	Rhodellophyceae	Rhodellales	Rhodellaceae	Rhodella	Rhodella maculata	Archibald 2018
+MMETSP0011	CCMP 769	Archaeplastida	Rhodophyta	Stylonematophyceae	Stylonematales	Stylonemataceae	Rhodosorus	Rhodosorus marinus	Archibald 2018
+MMETSP0315	UTEX LB 2760	Archaeplastida	Rhodophyta	Stylonematophyceae	Stylonematales	Stylonemataceae	Rhodosorus	Rhodosorus marinus	Archibald 2018
+MMETSP0047	CCMP1168	Cryptista	Cryptophyta	Cryptophyceae	Cryptomonadales	Incertae sedis	Chroomonas	Chroomonas mesostigmatica cf	Archibald 2018
+MMETSP1050	CCAP979/52	Cryptista	Cryptophyta	Cryptophyceae	Cryptomonadales	Incertae sedis	Cryptomonas	Cryptomonas curvata	Archibald 2018
+MMETSP0038	CCAP977/2a	Cryptista	Cryptophyta	Cryptophyceae	Cryptomonadales	Incertae sedis	Cryptomonas	Cryptomonas paramecium	Archibald 2018
+MMETSP0799	CCMP2564	Cryptista	Cryptophyta	Cryptophyceae	Cryptomonadales	Incertae sedis	Geminigera	Geminigera cryophila	Archibald 2018
+MMETSP1102	Caron Lab Isolate	Cryptista	Cryptophyta	Cryptophyceae	Cryptomonadales	Incertae sedis	Geminigera	Geminigera sp.	Archibald 2018
+MMETSP0046	CCMP 2712	Cryptista	Cryptophyta	Cryptophyceae	Cryptomonadales	Incertae sedis	Guillardia	Guillardia theta	Archibald 2018
+MMETSP1048	CCMP325	Cryptista	Cryptophyta	Cryptophyceae	Cryptomonadales	Incertae sedis	Hanusia	Hanusia phi	Archibald 2018
+MMETSP0043	CCMP644	Cryptista	Cryptophyta	Cryptophyceae	Cryptomonadales	Incertae sedis	Hemiselmis	Hemiselmis andersenii	Archibald 2018
+MMETSP1041	CCMP439	Cryptista	Cryptophyta	Cryptophyceae	Cryptomonadales	Incertae sedis	Hemiselmis	Hemiselmis andersenii	Archibald 2018
+MMETSP1042	CCMP1180	Cryptista	Cryptophyta	Cryptophyceae	Cryptomonadales	Incertae sedis	Hemiselmis	Hemiselmis andersenii	Archibald 2018
+MMETSP1043	CCMP441	Cryptista	Cryptophyta	Cryptophyceae	Cryptomonadales	Incertae sedis	Hemiselmis	Hemiselmis andersenii	Archibald 2018
+MMETSP1357	PCC563	Cryptista	Cryptophyta	Cryptophyceae	Cryptomonadales	Incertae sedis	Hemiselmis	Hemiselmis rufescens	Archibald 2018
+MMETSP1355	CCMP443	Cryptista	Cryptophyta	Cryptophyceae	Cryptomonadales	Incertae sedis	Hemiselmis	Hemiselmis tepida	Archibald 2018
+MMETSP1356	PCC157	Cryptista	Cryptophyta	Cryptophyceae	Cryptomonadales	Incertae sedis	Hemiselmis	Hemiselmis viresens	Archibald 2018
+MMETSP1049	CCMP704	Cryptista	Cryptophyta	Cryptophyceae	Cryptomonadales	Incertae sedis	Proteomonas	Proteomonas sulcata	Archibald 2018
+MMETSP1101	Caron Lab Isolate	Cryptista	Cryptophyta	Cryptophyceae	Cryptomonadales	Incertae sedis	Rhodomonas	Rhodomonas abbreviata	Archibald 2018
+MMETSP0484	RHODO	Cryptista	Cryptophyta	Cryptophyceae	Cryptomonadales	Incertae sedis	Rhodomonas	Rhodomonas lens	Archibald 2018
+MMETSP1047	CCMP1319	Cryptista	Cryptophyta	Cryptophyceae	Cryptomonadales	Incertae sedis	Rhodomonas	Rhodomonas salina	Archibald 2018
+MMETSP1091	CCMP768	Cryptista	Cryptophyta	Cryptophyceae	Cryptomonadales	Incertae sedis	Rhodomonas	Rhodomonas sp.	Archibald 2018
+MMETSP1389	CCMP768	Cryptista	Cryptophyta	Cryptophyceae	Cryptomonadales	Incertae sedis	Rhodomonas	Rhodomonas sp.	Archibald 2018
+MMETSP0107	CCMP1869	Cryptista	Cryptophyta	Cryptophyceae	Goniomonas	Incertae sedis	Goniomonas	Goniomonas Pacifica	Archibald 2018
+MMETSP0108	CCMP1869	Cryptista	Cryptophyta	Cryptophyceae	Goniomonas	Incertae sedis	Goniomonas	Goniomonas Pacifica	Archibald 2018
+MMETSP0114	m	Cryptista	Cryptophyta	Cryptophyceae	Goniomonas	Incertae sedis	Goniomonas	Goniomonas sp	Archibald 2018
+MMETSP0780	NIES-2562	Cryptista	Cryptophyta	Palpitea	Incertae sedis	Incertae sedis	Palpitomonas	Palpitomonas bilix	Archibald 2018
+MMETSP0986	CCMP2293	Cryptista	Cryptophyta	Uncertain	Uncertain	Uncertain	Uncertain	Uncertain	Not described
+MMETSP0987	CCMP2293	Cryptista	Cryptophyta	Uncertain	Uncertain	Uncertain	Uncertain	Uncertain	Not described
+MMETSP0988	CCMP2293	Cryptista	Cryptophyta	Uncertain	Uncertain	Uncertain	Uncertain	Uncertain	Not described
+MMETSP0989	CCMP2293	Cryptista	Cryptophyta	Uncertain	Uncertain	Uncertain	Uncertain	Uncertain	Not described
+MMETSP0039	NIES-381	Discoba	Euglenida	Euglenophyceae	Eutreptiales	Incertae sedis	Eutreptiella	Eutreptiella gymnastica	Archibald 2018
+MMETSP0809	CCMP1594	Discoba	Euglenida	Euglenophyceae	Eutreptiales	Incertae sedis	Eutreptiella	Eutreptiella gymnastica-like	Archibald 2018
+MMETSP0810	CCMP1594	Discoba	Euglenida	Euglenophyceae	Eutreptiales	Incertae sedis	Eutreptiella	Eutreptiella gymnastica-like	Archibald 2018
+MMETSP0811	CCMP1594	Discoba	Euglenida	Euglenophyceae	Eutreptiales	Incertae sedis	Eutreptiella	Eutreptiella gymnastica-like	Archibald 2018
+MMETSP0758	AE-1 (ATCC 50343)	Discoba	Heterolobosea	Tetramitia	Percolatea	Percolomonadidae	Percolomonas	Percolomonas cosmopolitus	Archibald 2018
+MMETSP0759	WS	Discoba	Heterolobosea	Tetramitia	Percolatea	Percolomonadidae	Percolomonas	Percolomonas cosmopolitus	Archibald 2018
+AddRef0023	NEG-M	Discoba	Heterolobosea	Tetramitia	Vahlkampfidae	Incertae sedis	Naegleria	Naegleria gruberi	Archibald 2018
+MMETSP1114	CCAP 1951/1	Discoba	Kinetoplastea	Metakinetoplastina	Neobodonida	Incertae sedis	Neobodo	Neobodo designis	Archibald 2018
+MMETSP1334	RCC1130	Haptophytes	Haptophyta	Coccolithophyceae	Coccolithales	Calcidiscaceae	Calcidiscus	Calcidiscus leptoporus	Archibald 2018
+MMETSP0164	PLY182g	Haptophytes	Haptophyta	Coccolithophyceae	Coccolithales	Coccolithaceae	Coccolithus	Coccolithus pelagicus ssp braarudi	Archibald 2018
+MMETSP1136	CCMP645	Haptophytes	Haptophyta	Coccolithophyceae	Isochrysidales	Isochrysidaceae	Pleurochrysis	Pleurochrysis carterae	Archibald 2018, also known by genera Chrysotila
+MMETSP1137	CCMP645	Haptophytes	Haptophyta	Coccolithophyceae	Isochrysidales	Isochrysidaceae	Pleurochrysis	Pleurochrysis carterae	Archibald 2018, also known by genera Chrysotila
+MMETSP1138	CCMP645	Haptophytes	Haptophyta	Coccolithophyceae	Isochrysidales	Isochrysidaceae	Pleurochrysis	Pleurochrysis carterae	Archibald 2018, also known by genera Chrysotila
+MMETSP0595	CCMP1323	Haptophytes	Haptophyta	Coccolithophyceae	Isochrysidales	Isochrysidaceae	Isochrysis	Isochrysis galbana	Archibald 2018
+MMETSP0943	CCMP1323	Haptophytes	Haptophyta	Coccolithophyceae	Isochrysidales	Isochrysidaceae	Isochrysis	Isochrysis galbana	Archibald 2018
+MMETSP0944	CCMP1323	Haptophytes	Haptophyta	Coccolithophyceae	Isochrysidales	Isochrysidaceae	Isochrysis	Isochrysis galbana	Archibald 2018
+MMETSP1090	CCMP1244	Haptophytes	Haptophyta	Coccolithophyceae	Isochrysidales	Isochrysidaceae	Isochrysis	Isochrysis sp	Archibald 2018
+MMETSP1388	CCMP1244	Haptophytes	Haptophyta	Coccolithophyceae	Isochrysidales	Isochrysidaceae	Isochrysis	Isochrysis sp	Archibald 2018
+MMETSP1129	CCMP1324	Haptophytes	Haptophyta	Coccolithophyceae	Isochrysidales	Isochrysidaceae	Isochrysis	Isochrysis sp.	Archibald 2018
+MMETSP1130	CCMP1324	Haptophytes	Haptophyta	Coccolithophyceae	Isochrysidales	Isochrysidaceae	Isochrysis	Isochrysis sp.	Archibald 2018
+MMETSP1131	CCMP1324	Haptophytes	Haptophyta	Coccolithophyceae	Isochrysidales	Isochrysidaceae	Isochrysis	Isochrysis sp.	Archibald 2018
+MMETSP1132	CCMP1324	Haptophytes	Haptophyta	Coccolithophyceae	Isochrysidales	Isochrysidaceae	Isochrysis	Isochrysis sp.	Archibald 2018
+AddRef0018	CCMP1516	Haptophytes	Haptophyta	Coccolithophyceae	Isochrysidales	Noelhaerhabdaceae	Emiliania	Emiliania huxleyi	Archibald 2018
+MMETSP0994	379	Haptophytes	Haptophyta	Coccolithophyceae	Isochrysidales	Noelhaerhabdaceae	Emiliania	Emiliania huxleyi	Archibald 2018
+MMETSP0995	379	Haptophytes	Haptophyta	Coccolithophyceae	Isochrysidales	Noelhaerhabdaceae	Emiliania	Emiliania huxleyi	Archibald 2018
+MMETSP0996	379	Haptophytes	Haptophyta	Coccolithophyceae	Isochrysidales	Noelhaerhabdaceae	Emiliania	Emiliania huxleyi	Archibald 2018
+MMETSP0997	379	Haptophytes	Haptophyta	Coccolithophyceae	Isochrysidales	Noelhaerhabdaceae	Emiliania	Emiliania huxleyi	Archibald 2018
+MMETSP1006	374	Haptophytes	Haptophyta	Coccolithophyceae	Isochrysidales	Noelhaerhabdaceae	Emiliania	Emiliania huxleyi	Archibald 2018
+MMETSP1007	374	Haptophytes	Haptophyta	Coccolithophyceae	Isochrysidales	Noelhaerhabdaceae	Emiliania	Emiliania huxleyi	Archibald 2018
+MMETSP1008	374	Haptophytes	Haptophyta	Coccolithophyceae	Isochrysidales	Noelhaerhabdaceae	Emiliania	Emiliania huxleyi	Archibald 2018
+MMETSP1009	374	Haptophytes	Haptophyta	Coccolithophyceae	Isochrysidales	Noelhaerhabdaceae	Emiliania	Emiliania huxleyi	Archibald 2018
+MMETSP1150	PLY M219	Haptophytes	Haptophyta	Coccolithophyceae	Isochrysidales	Noelhaerhabdaceae	Emiliania	Emiliania huxleyi	Archibald 2018
+MMETSP1151	PLY M219	Haptophytes	Haptophyta	Coccolithophyceae	Isochrysidales	Noelhaerhabdaceae	Emiliania	Emiliania huxleyi	Archibald 2018
+MMETSP1152	PLY M219	Haptophytes	Haptophyta	Coccolithophyceae	Isochrysidales	Noelhaerhabdaceae	Emiliania	Emiliania huxleyi	Archibald 2018
+MMETSP1153	PLY M219	Haptophytes	Haptophyta	Coccolithophyceae	Isochrysidales	Noelhaerhabdaceae	Emiliania	Emiliania huxleyi	Archibald 2018
+MMETSP1154	CCMP370	Haptophytes	Haptophyta	Coccolithophyceae	Isochrysidales	Noelhaerhabdaceae	Emiliania	Emiliania huxleyi	Archibald 2018
+MMETSP1155	CCMP370	Haptophytes	Haptophyta	Coccolithophyceae	Isochrysidales	Noelhaerhabdaceae	Emiliania	Emiliania huxleyi	Archibald 2018
+MMETSP1156	CCMP370	Haptophytes	Haptophyta	Coccolithophyceae	Isochrysidales	Noelhaerhabdaceae	Emiliania	Emiliania huxleyi	Archibald 2018
+MMETSP1157	CCMP370	Haptophytes	Haptophyta	Coccolithophyceae	Isochrysidales	Noelhaerhabdaceae	Emiliania	Emiliania huxleyi	Archibald 2018
+MMETSP1363	RCC1303	Haptophytes	Haptophyta	Coccolithophyceae	Isochrysidales	Noelhaerhabdaceae	Gephyrocapsa	Gephyrocapsa oceanica	Archibald 2018
+MMETSP1364	RCC1303	Haptophytes	Haptophyta	Coccolithophyceae	Isochrysidales	Noelhaerhabdaceae	Gephyrocapsa	Gephyrocapsa oceanica	Archibald 2018
+MMETSP1365	RCC1303	Haptophytes	Haptophyta	Coccolithophyceae	Isochrysidales	Noelhaerhabdaceae	Gephyrocapsa	Gephyrocapsa oceanica	Archibald 2018
+MMETSP1366	RCC1303	Haptophytes	Haptophyta	Coccolithophyceae	Isochrysidales	Noelhaerhabdaceae	Gephyrocapsa	Gephyrocapsa oceanica	Archibald 2018
+MMETSP1100	Caron Lab Isolate	Haptophytes	Haptophyta	Coccolithophyceae	Phaeocystales	Phaeocystaceae	Phaeocystis	Phaeocystis antarctica	Archibald 2018, Karsten 1905
+MMETSP1444	CCMP1374	Haptophytes	Haptophyta	Coccolithophyceae	Phaeocystales	Phaeocystaceae	Phaeocystis	Phaeocystis antarctica	Archibald 2018, Karsten 1905
+MMETSP1465	RCC1383	Haptophytes	Haptophyta	Coccolithophyceae	Phaeocystales	Phaeocystaceae	Phaeocystis	Phaeocystis cordata	Archibald 2018, Karsten 1905
+MMETSP1162	CCMP2710	Haptophytes	Haptophyta	Coccolithophyceae	Phaeocystales	Phaeocystaceae	Phaeocystis	Phaeocystis Sp	Archibald 2018, Karsten 1905
+MMETSP1094	UTEX LB 985	Haptophytes	Haptophyta	Coccolithophyceae	Prymnesiales	Chrysochromulinaceae	Chrysochromulina	Chrysochromulina brevifilum	Archibald 2018
+MMETSP1096	CCMP281	Haptophytes	Haptophyta	Coccolithophyceae	Prymnesiales	Chrysochromulinaceae	Chrysochromulina	Chrysochromulina ericina	Archibald 2018
+MMETSP0143	CCMP1757	Haptophytes	Haptophyta	Coccolithophyceae	Prymnesiales	Chrysochromulinaceae	Chrysochromulina	Chrysochromulina polylepis	Archibald 2018
+MMETSP0145	CCMP1757	Haptophytes	Haptophyta	Coccolithophyceae	Prymnesiales	Chrysochromulinaceae	Chrysochromulina	Chrysochromulina polylepis	Archibald 2018
+MMETSP0146	CCMP1757	Haptophytes	Haptophyta	Coccolithophyceae	Prymnesiales	Chrysochromulinaceae	Chrysochromulina	Chrysochromulina polylepis	Archibald 2018
+MMETSP0147	CCMP1757	Haptophytes	Haptophyta	Coccolithophyceae	Prymnesiales	Chrysochromulinaceae	Chrysochromulina	Chrysochromulina polylepis	Archibald 2018
+MMETSP0286	UIO037	Haptophytes	Haptophyta	Coccolithophyceae	Prymnesiales	Chrysochromulinaceae	Chrysochromulina	Chrysochromulina polylepis	Archibald 2018
+MMETSP0287	UIO044	Haptophytes	Haptophyta	Coccolithophyceae	Prymnesiales	Chrysochromulinaceae	Chrysochromulina	Chrysochromulina rotalis	Archibald 2018
+MMETSP1335	RCC1486	Haptophytes	Haptophyta	Coccolithophyceae	Prymnesiales	Prymnesiaceae	Chrysoculter	Chrysoculter rhomboideus	Archibald 2018
+MMETSP1474	RCC918	Haptophytes	Haptophyta	Coccolithophyceae	Prymnesiales	Prymnesiaceae	Imantonia	Imantonia sp.	Archibald 2018
+MMETSP0006	Texoma1	Haptophytes	Haptophyta	Coccolithophyceae	Prymnesiales	Prymnesiaceae	Prymnesium	Prymnesium parvum	Archibald 2018
+MMETSP0007	Texoma1	Haptophytes	Haptophyta	Coccolithophyceae	Prymnesiales	Prymnesiaceae	Prymnesium	Prymnesium parvum	Archibald 2018
+MMETSP0008	Texoma1	Haptophytes	Haptophyta	Coccolithophyceae	Prymnesiales	Prymnesiaceae	Prymnesium	Prymnesium parvum	Archibald 2018
+MMETSP0814	Texoma1	Haptophytes	Haptophyta	Coccolithophyceae	Prymnesiales	Prymnesiaceae	Prymnesium	Prymnesium parvum	Archibald 2018
+MMETSP0815	Texoma1	Haptophytes	Haptophyta	Coccolithophyceae	Prymnesiales	Prymnesiaceae	Prymnesium	Prymnesium parvum	Archibald 2018
+MMETSP1083	Texoma1	Haptophytes	Haptophyta	Coccolithophyceae	Prymnesiales	Prymnesiaceae	Prymnesium	Prymnesium parvum	Archibald 2018
+MMETSP0982	CCMP 2436	Haptophytes	Haptophyta	Coccolithophyceae	Prymnesiales	Uncertain	Uncertain	Uncertain	Not described
+MMETSP0983	CCMP 2436	Haptophytes	Haptophyta	Coccolithophyceae	Prymnesiales	Uncertain	Uncertain	Uncertain	Not described
+MMETSP0984	CCMP 2436	Haptophytes	Haptophyta	Coccolithophyceae	Prymnesiales	Uncertain	Uncertain	Uncertain	Not described
+MMETSP0985	CCMP 2436	Haptophytes	Haptophyta	Coccolithophyceae	Prymnesiales	Uncertain	Uncertain	Uncertain	Not described
+MMETSP1178	CCMP2000	Haptophytes	Haptophyta	Coccolithophyceae	Prymnesiales	Uncertain	Uncertain	Uncertain	Not described
+MMETSP1333	RCC1455	Haptophytes	Haptophyta	Coccolithophyceae	Zygodiscales	Pontosphaeraceae	Scyphosphaera	Scyphosphaera apsteinii	Archibald 2018, Lohmann, 1902
+MMETSP1464	RCC1523	Haptophytes	Haptophyta	Pavlovophyceae	Pavlovales	Pavlovaceae	Exanthemachrysis	Exanthemachrysis gayraliae	Archibald 2018, H.Lepailleur 1970
+MMETSP1466	CCMP608	Haptophytes	Haptophyta	Pavlovophyceae	Pavlovales	Pavlovaceae	Pavlova	Pavlova gyrans	Archibald 2018, J.C.Green 1975
+MMETSP1463	RCC1537	Haptophytes	Haptophyta	Pavlovophyceae	Pavlovales	Pavlovaceae	Pavlova	Pavlova lutheri	Archibald 2018, J.C.Green 1975
+MMETSP1139	CCMP459	Haptophytes	Haptophyta	Pavlovophyceae	Pavlovales	Pavlovaceae	Pavlova	Pavlova sp.	Archibald 2018, J.C.Green 1975
+MMETSP1140	CCMP459	Haptophytes	Haptophyta	Pavlovophyceae	Pavlovales	Pavlovaceae	Pavlova	Pavlova sp.	Archibald 2018, J.C.Green 1975
+MMETSP1381	CCMP459	Haptophytes	Haptophyta	Pavlovophyceae	Pavlovales	Pavlovaceae	Pavlova	Pavlova sp.	Archibald 2018, J.C.Green 1975
+MMETSP0105	10tr	Opisthokont	Choanoflagellatea	Acanthoecida	Acanthoecidae	Incertae sedis	Acanthoeca-like	Acanthoeca-like sp.	Archibald 2018
+MMETSP0106	10tr	Opisthokont	Choanoflagellatea	Acanthoecida	Acanthoecidae	Incertae sedis	Acanthoeca-like	Acanthoeca-like sp.	Archibald 2018
+AddRef0022	MX1	Opisthokont	Choanoflagellatea	Craspedida	Salpingoecidae	Incertae sedis	Monosiga	Monosiga brevicollis	Archibald 2018
+AddRef0038	ATCC50818	Opisthokont	Choanoflagellatea	Craspedida	Salpingoecidae	Incertae sedis	Salpingoeca	Salpingoeca rosetta	Archibald 2018
+AddRef0006	JAM81	Opisthokont	Fungi	Chrytridiomycetes	Rhizophydiales	Incertae sedis	Batrachochytrium	Batrachochytrium dendrobatidis	Archibald 2018
+AddRef0017	CBS767	Opisthokont	Fungi	Saccharomycetes	Saccharomycetales	Saccharomycetaceae	Debaryomyces	Debaryomyces hansenii	Lodder & Kreger-van Rij, 1984
+MMETSP0232	J26	Opisthokont	Fungi	Saccharomycetes	Saccharomycetales	Saccharomycetaceae	Debaryomyces	Debaryomyces hansenii	World Register of Marine Species
+MMETSP0233	J26	Opisthokont	Fungi	Saccharomycetes	Saccharomycetales	Saccharomycetaceae	Debaryomyces	Debaryomyces hansenii	World Register of Marine Species
+MMETSP0234	J26	Opisthokont	Fungi	Saccharomycetes	Saccharomycetales	Saccharomycetaceae	Debaryomyces	Debaryomyces hansenii	World Register of Marine Species
+MMETSP0235	J26	Opisthokont	Fungi	Saccharomycetes	Saccharomycetales	Saccharomycetaceae	Debaryomyces	Debaryomyces hansenii	World Register of Marine Species
+AddRef0013	Uncertain	Opisthokont	Fungi	Sordariomycetes	Incertae sedis	Incertae sedis	Corollospora	Corollospora maritime	World Register of Marine Species
+AddRef0036	JCM 10317	Opisthokont	Fungi	Ustilaginomycetes	Incertae sedis	Incertae sedis	Pseudozyma	Pseudozyma antarctica	World Register of Marine Species
+AddRef0026	CH2 x CH6	Opisthokont	Metazoa	Anthozoa	Actiniaria	Edwardsiidae	Nematostella	Nematostella vectensis	World Register of Marine Species
+AddRef0027	Uncertain	Opisthokont	Metazoa	Appendicularia	Copelata	Oikopleuridae	Oikopleura	Oikopleura dioica	World Register of Marine Species
+AddRef0014	05x7-T-G4-1.051#20	Opisthokont	Metazoa	Bivalvia	Ostreida	Ostreidae	Crassostrea	Crassostrea gigas	World Register of Marine Species
+AddRef0016	Uncertain	Opisthokont	Metazoa	Crustacea	Anomopoda	Daphniidae	Daphnia	Daphnia pulex	World Register of Marine Species
+AddRef0008	Uncertain	Opisthokont	Metazoa	Crustacea	Copepoda	Calanidae	Calanus	Calanus finmarchicus	World Register of Marine Species
+AddRef0045	Uncertain	Opisthokont	Metazoa	Crustacea	Copepoda	Harpacticidae	Tigriopus	Tigriopus californicus	World Register of Marine Species
+AddRef0003	Uncertain	Opisthokont	Metazoa	Demospongiae	Haplosclerida	Niphatidae	Amphimedon	Amphimedon queenslandica	World Register of Marine Species
+AddRef0040	Uncertain	Opisthokont	Metazoa	Echinoidea	Camarodonta	Strongylocentrotidae	Strongylocentrotus	Strongylocentrotus purpuratus	World Register of Marine Species
+AddRef0020	Uncertain	Opisthokont	Metazoa	Gastropoda	Lottioidea	Lottiidae	Lottia	Lottia gigantea	World Register of Marine Species
+AddRef0044	Uncertain	Opisthokont	Metazoa	Myxozoa	Bibalvulida	Myxobolidae	Thelohanellus	Thelohanellus kitauei	World Register of Marine Species
+AddRef0009	Uncertain	Opisthokont	Metazoa	Polychaeta	Sedentaria	Capitellidae	Capitella	Capitella teleta	World Register of Marine Species
+AddRef0035	Uncertain	Opisthokont	Metazoa	Tentaculata	Cydippida	Pleurobrachiidae	Pleurobrachia	Pleurobrachia bachei	World Register of Marine Species
+AddRef0021	Uncertain	Opisthokont	Metazoa	Tentaculata	Lobata	Bolinopsidae	Mnemiopsis	Mnemiopsis leidyi	World Register of Marine Species
+MMETSP1359	CCMP242	Rhizaria	Cercozoa	Filosa	Chlorarachniophyta	Chlorarachniophyceae	Bigelowiella	Bigelowiella longifila	Archibald 2018
+AddRef0007	CCMP621	Rhizaria	Cercozoa	Filosa	Chlorarachniophyta	Chlorarachniophyceae	Bigelowiella	Bigelowiella natans	Archibald 2018
+MMETSP0045	CCMP 2755	Rhizaria	Cercozoa	Filosa	Chlorarachniophyta	Chlorarachniophyceae	Bigelowiella	Bigelowiella natans	Archibald 2018
+MMETSP1052	CCMP623	Rhizaria	Cercozoa	Filosa	Chlorarachniophyta	Chlorarachniophyceae	Bigelowiella	Bigelowiella natans	Archibald 2018
+MMETSP1054	CCMP1259	Rhizaria	Cercozoa	Filosa	Chlorarachniophyta	Chlorarachniophyceae	Bigelowiella	Bigelowiella natans	Archibald 2018
+MMETSP1055	CCMP1258.1	Rhizaria	Cercozoa	Filosa	Chlorarachniophyta	Chlorarachniophyceae	Bigelowiella	Bigelowiella natans	Archibald 2018
+MMETSP1358	CCMP1242	Rhizaria	Cercozoa	Filosa	Chlorarachniophyta	Chlorarachniophyceae	Bigelowiella	Bigelowiella natans	Archibald 2018
+MMETSP0109	CCCM449	Rhizaria	Cercozoa	Filosa	Chlorarachniophyta	Chlorarachniophyceae	Chlorarachnion	Chlorarachnion reptans	Archibald 2018
+MMETSP0110	CCMP2014	Rhizaria	Cercozoa	Filosa	Chlorarachniophyta	Chlorarachniophyceae	Gymnochlora	Gymnochlora sp.	Archibald 2018
+MMETSP0042	CCMP2058	Rhizaria	Cercozoa	Filosa	Chlorarachniophyta	Chlorarachniophyceae	Lotharella	Lotharella amoebiformis	Archibald 2018
+MMETSP0041	LEX01	Rhizaria	Cercozoa	Filosa	Chlorarachniophyta	Chlorarachniophyceae	Lotharella	Lotharella globosa	Archibald 2018
+MMETSP0111	CCCM811	Rhizaria	Cercozoa	Filosa	Chlorarachniophyta	Chlorarachniophyceae	Lotharella	Lotharella globosa	Archibald 2018
+MMETSP0112	CCCM811	Rhizaria	Cercozoa	Filosa	Chlorarachniophyta	Chlorarachniophyceae	Lotharella	Lotharella globosa	Archibald 2018
+MMETSP0040	CCMP622	Rhizaria	Cercozoa	Filosa	Chlorarachniophyta	Chlorarachniophyceae	Lotharella	Lotharella oceanica	Archibald 2018
+MMETSP0113	BC52	Rhizaria	Cercozoa	Filosa	Chlorarachniophyta	Chlorarachniophyceae	Norrisiella	Norrisiella sphaerica	Archibald 2018
+MMETSP1318	RCC365	Rhizaria	Cercozoa	Filosa	Chlorarachniophyta	Chlorarachniophyceae	Partenskyella	Partenskyella glossopodia	Archibald 2018
+AddRef0032	Uncertain	Rhizaria	Cercozoa	Filosa	Chlorarachniophyta	Paulinellideae	Paulinella	Paulinella chromatophora	Archibald 2018
+MMETSP0186	Minchinia chitonis	Rhizaria	Cercozoa	Haplospora	Haplosporida	Haplosporiidae	Minchinia	Minchinia chitonis	Archibald 2018
+MMETSP0086	D1	Rhizaria	Cercozoa	Thecofilosea	Incertae sedis	Incertae sedis	Thecofilosea	Thecofilosea Unknown	Archibald 2018
+MMETSP0087	D1	Rhizaria	Cercozoa	Thecofilosea	Incertae sedis	Incertae sedis	Thecofilosea	Thecofilosea Unknown	Archibald 2018
+AddRef0004	Uncertain	Rhizaria	Cercozoa	Thecofilosea	Phaeodaria	Incertae sedis	Aulacantha	Aulacantha scolymantha	Archibald 2018
+AddRef0002	Uncertain	Rhizaria	Retaria	Acantharia	Incertae sedis	Incertae sedis	Amphilonche	Amphilonche elongata	Archibald 2018
+AddRef0047	Uncertain	Rhizaria	Retaria	Acantharia	Taxopodida	Sticholonchida	Sticholonche	Sticholonche	Archibald 2018
+MMETSP1385	Elphidium margaritaceum	Rhizaria	Retaria	Foraminifera	Elphidiidae	Incertae sedis	Elphidium	Elphidium margaritaceum	Archibald 2018
+AddRef0037	Uncertain	Rhizaria	Retaria	Foraminifera	Reticulomyxidae	Monothalamids	Reticulomyxa	Reticulomyxa filosa	Archibald 2018
+MMETSP0190	Rosalina	Rhizaria	Retaria	Foraminifera	Rosalinidae	Incertae sedis	Rosalina	Rosalina sp.	Archibald 2018
+MMETSP1384	Ammonia	Rhizaria	Retaria	Foraminifera	Rotaliidae	Incertae sedis	Ammonia	Ammonia sp.	Archibald 2018
+MMETSP0191	Sorites sp.	Rhizaria	Retaria	Foraminifera	Soritidae	Incertae sedis	Sorites	Sorites sp.	Archibald 2018
+AddRef0012	Uncertain	Rhizaria	Retaria	Polycystinea	Collodaria	Incertae sedis	Collozoum	Collozoum sp.	Archibald 2018
+AddRef0048	Uncertain	Rhizaria	Retaria	Polycystinea	Nassellaria	Incertae sedis	Lithomelizza	Lithomelizza setosa	Archibald 2018
+AddRef0039	Uncertain	Rhizaria	Retaria	Polycystinea	Spumellaria	Collosphaeridae	Spongosphaera	Spongosphaera streptacantha	Archibald 2018
+AddRef0061		Rhizaria	Retaria	Polycystinea	Spumellaria	Collosphaeridae	Thalassicolla	Thalassicolla nucleata	Archibald 2018
+MMETSP0115	ms1	Stramenopile	Bicosoecida	Biocoecea	Bicoecida	Bicosoecaceae	Bicosoeca	Bicosoecid sp	H.J.Clark, 1868
+MMETSP0942	E4-10	Stramenopile	Bicosoecida	Biocoecea	Bicoecida	Cafeteriaceae	Cafeteria	Cafeteria roenbergensis	Fenchel & D.J.Patterson, 1988
+MMETSP1104	Caron Lab Isolate	Stramenopile	Bicosoecida	Biocoecea	Bicoecida	Cafeteriaceae	Cafeteria	Cafeteria sp.	Fenchel & D.J.Patterson, 1988
+MMETSP0954	PBS07	Stramenopile	Labyrinthulomycota	Labyrinthulomycetes	Labyrinthulales	Aplanochytriaceae	Aplanochytrium	Aplanochytrium sp	Archibald 2018
+MMETSP0955	PBS07	Stramenopile	Labyrinthulomycota	Labyrinthulomycetes	Labyrinthulales	Aplanochytriaceae	Aplanochytrium	Aplanochytrium sp	Archibald 2018
+MMETSP0956	PBS07	Stramenopile	Labyrinthulomycota	Labyrinthulomycetes	Labyrinthulales	Aplanochytriaceae	Aplanochytrium	Aplanochytrium sp	Archibald 2018
+MMETSP0957	PBS07	Stramenopile	Labyrinthulomycota	Labyrinthulomycetes	Labyrinthulales	Aplanochytriaceae	Aplanochytrium	Aplanochytrium sp	Archibald 2018
+MMETSP1346	GSBS06	Stramenopile	Labyrinthulomycota	Labyrinthulomycetes	Labyrinthulales	Aplanochytriaceae	Aplanochytrium	Aplanochytrium stocchinoi	Archibald 2018
+MMETSP1347	GSBS06	Stramenopile	Labyrinthulomycota	Labyrinthulomycetes	Labyrinthulales	Aplanochytriaceae	Aplanochytrium	Aplanochytrium stocchinoi	Archibald 2018
+MMETSP1348	GSBS06	Stramenopile	Labyrinthulomycota	Labyrinthulomycetes	Labyrinthulales	Aplanochytriaceae	Aplanochytrium	Aplanochytrium stocchinoi	Archibald 2018
+MMETSP1349	GSBS06	Stramenopile	Labyrinthulomycota	Labyrinthulomycetes	Labyrinthulales	Aplanochytriaceae	Aplanochytrium	Aplanochytrium stocchinoi	Archibald 2018
+MMETSP0958	ATCCMYA-1381	Stramenopile	Labyrinthulomycota	Labyrinthulomycetes	Thraustochytriales	Thraustochytriacae	Aurantiochytrium	Aurantiochytrium limacinum	Archibald 2018
+MMETSP0959	ATCCMYA-1381	Stramenopile	Labyrinthulomycota	Labyrinthulomycetes	Thraustochytriales	Thraustochytriacae	Aurantiochytrium	Aurantiochytrium limacinum	Archibald 2018
+MMETSP0960	ATCCMYA-1381	Stramenopile	Labyrinthulomycota	Labyrinthulomycetes	Thraustochytriales	Thraustochytriacae	Aurantiochytrium	Aurantiochytrium limacinum	Archibald 2018
+MMETSP0961	ATCCMYA-1381	Stramenopile	Labyrinthulomycota	Labyrinthulomycetes	Thraustochytriales	Thraustochytriacae	Aurantiochytrium	Aurantiochytrium limacinum	Archibald 2018
+MMETSP0962	ATCC28209	Stramenopile	Labyrinthulomycota	Labyrinthulomycetes	Thraustochytriales	Thraustochytriacae	Schizochytrium	Schizochytrium aggregatum	Archibald 2018
+MMETSP0963	ATCC28209	Stramenopile	Labyrinthulomycota	Labyrinthulomycetes	Thraustochytriales	Thraustochytriacae	Schizochytrium	Schizochytrium aggregatum	Archibald 2018
+MMETSP0964	ATCC28209	Stramenopile	Labyrinthulomycota	Labyrinthulomycetes	Thraustochytriales	Thraustochytriacae	Schizochytrium	Schizochytrium aggregatum	Archibald 2018
+MMETSP0965	ATCC28209	Stramenopile	Labyrinthulomycota	Labyrinthulomycetes	Thraustochytriales	Thraustochytriacae	Schizochytrium	Schizochytrium aggregatum	Archibald 2018
+MMETSP0198	LLF1b	Stramenopile	Labyrinthulomycota	Labyrinthulomycetes	Thraustochytriales	Thraustochytriacae	Thraustochytrium	Thraustochytrium sp.	Archibald 2018
+MMETSP0199	LLF1b	Stramenopile	Labyrinthulomycota	Labyrinthulomycetes	Thraustochytriales	Thraustochytriacae	Thraustochytrium	Thraustochytrium sp.	Archibald 2018
+AddRef0052		Stramenopile	MAST	MAST	MAST-3	MAST-3	MAST-3	Incisomonas marina (MAST-3)	Archibald 2018, not described
+AddRef0053	TOSAG41-2	Stramenopile	MAST	MAST	MAST-3	MAST-3	MAST-3A	MAST-3A	Archibald 2018, not described
+AddRef0054	TOSAG23-6	Stramenopile	MAST	MAST	MAST-3	MAST-3	MAST-3F	MAST-3F	Archibald 2018, not described
+AddRef0049		Stramenopile	MAST	MAST	MAST-4	MAST-4	MAST-4	MAST-4	Archibald 2018, not described
+AddRef0050		Stramenopile	MAST	MAST	MAST-4	MAST-4	MAST-4A	MAST-4A	Archibald 2018, not described
+AddRef0055	TOSAG23-1	Stramenopile	MAST	MAST	MAST-4	MAST-4	MAST-4A	MAST-4A1	Archibald 2018, not described
+AddRef0056	TOSAG23-2	Stramenopile	MAST	MAST	MAST-4	MAST-4	MAST-4A	MAST-4A2	Archibald 2018, not described
+AddRef0057	TOSAG41-1	Stramenopile	MAST	MAST	MAST-4	MAST-4	MAST-4C	MAST-4C	Archibald 2018, not described
+AddRef0051		Stramenopile	MAST	MAST	MAST-4	MAST-4	MAST-4E	MAST-4E	Archibald 2018, not described
+AddRef0058	TOSAG23-3	Stramenopile	MAST	MAST	MAST-4	MAST-4	MAST-4E	MAST-4E	Archibald 2018, not described
+MMETSP0017	KMMCC:B-181	Stramenopile	Ochrophyta	Bacillariophyceae	Bacillariales	Bacillariaceae	Cylindrotheca	Cylindrotheca closterium	Archibald 2018, not described
+MMETSP0744	CCMP561	Stramenopile	Ochrophyta	Bacillariophyceae	Bacillariales	Bacillariaceae	Nitzschia	Nitzschia punctata	H. Peragallo in H. Peragallo & M. Peragallo, 1900
+MMETSP0745	CCMP561	Stramenopile	Ochrophyta	Bacillariophyceae	Bacillariales	Bacillariaceae	Nitzschia	Nitzschia punctata	H. Peragallo in H. Peragallo & M. Peragallo, 1900
+MMETSP0746	CCMP561	Stramenopile	Ochrophyta	Bacillariophyceae	Bacillariales	Bacillariaceae	Nitzschia	Nitzschia punctata	H. Peragallo in H. Peragallo & M. Peragallo, 1900
+MMETSP0747	CCMP561	Stramenopile	Ochrophyta	Bacillariophyceae	Bacillariales	Bacillariaceae	Nitzschia	Nitzschia punctata	H. Peragallo in H. Peragallo & M. Peragallo, 1900
+MMETSP0014	RCC80	Stramenopile	Ochrophyta	Bacillariophyceae	Bacillariales	Bacillariaceae	Nitzschia	Nitzschia sp.	H. Peragallo in H. Peragallo & M. Peragallo, 1900
+MMETSP0329	B593	Stramenopile	Ochrophyta	Bacillariophyceae	Bacillariales	Bacillariaceae	Pseudo-nitzschia	Pseudo-nitzschia arenysensis	H. Peragallo in H. Peragallo & M. Peragallo, 1900
+MMETSP0139	10249 10 AB	Stramenopile	Ochrophyta	Bacillariophyceae	Bacillariales	Bacillariaceae	Pseudo-nitzschia	Pseudo-nitzschia australis	H. Peragallo in H. Peragallo & M. Peragallo, 1900
+MMETSP0140	10249 10 AB	Stramenopile	Ochrophyta	Bacillariophyceae	Bacillariales	Bacillariaceae	Pseudo-nitzschia	Pseudo-nitzschia australis	H. Peragallo in H. Peragallo & M. Peragallo, 1900
+MMETSP0141	10249 10 AB	Stramenopile	Ochrophyta	Bacillariophyceae	Bacillariales	Bacillariaceae	Pseudo-nitzschia	Pseudo-nitzschia australis	H. Peragallo in H. Peragallo & M. Peragallo, 1900
+MMETSP0142	10249 10 AB	Stramenopile	Ochrophyta	Bacillariophyceae	Bacillariales	Bacillariaceae	Pseudo-nitzschia	Pseudo-nitzschia australis	H. Peragallo in H. Peragallo & M. Peragallo, 1900
+MMETSP0327	B596	Stramenopile	Ochrophyta	Bacillariophyceae	Bacillariales	Bacillariaceae	Pseudo-nitzschia	Pseudo-nitzschia delicatissima	H. Peragallo in H. Peragallo & M. Peragallo, 1900
+MMETSP1432	UNC1205	Stramenopile	Ochrophyta	Bacillariophyceae	Bacillariales	Bacillariaceae	Pseudo-nitzschia	Pseudo-nitzschia delicatissima	H. Peragallo in H. Peragallo & M. Peragallo, 1900
+MMETSP0850	WWA7	Stramenopile	Ochrophyta	Bacillariophyceae	Bacillariales	Bacillariaceae	Pseudo-nitzschia	Pseudo-nitzschia fraudulenta	H. Peragallo in H. Peragallo & M. Peragallo, 1900
+MMETSP0851	WWA7	Stramenopile	Ochrophyta	Bacillariophyceae	Bacillariales	Bacillariaceae	Pseudo-nitzschia	Pseudo-nitzschia fraudulenta	H. Peragallo in H. Peragallo & M. Peragallo, 1900
+MMETSP0852	WWA7	Stramenopile	Ochrophyta	Bacillariophyceae	Bacillariales	Bacillariaceae	Pseudo-nitzschia	Pseudo-nitzschia fraudulenta	H. Peragallo in H. Peragallo & M. Peragallo, 1900
+MMETSP0853	WWA7	Stramenopile	Ochrophyta	Bacillariophyceae	Bacillariales	Bacillariaceae	Pseudo-nitzschia	Pseudo-nitzschia fraudulenta	H. Peragallo in H. Peragallo & M. Peragallo, 1900
+MMETSP1423	UNC1101	Stramenopile	Ochrophyta	Bacillariophyceae	Bacillariales	Bacillariaceae	Pseudo-nitzschia	Pseudo-nitzschia heimii	H. Peragallo in H. Peragallo & M. Peragallo, 1900
+MMETSP1060	cf. cingulata	Stramenopile	Ochrophyta	Bacillariophyceae	Bacillariales	Bacillariaceae	Pseudo-nitzschia	Pseudo-nitzschia pungens	H. Peragallo in H. Peragallo & M. Peragallo, 1900
+MMETSP1061	cf. pungens	Stramenopile	Ochrophyta	Bacillariophyceae	Bacillariales	Bacillariaceae	Pseudo-nitzschia	Pseudo-nitzschia pungens	H. Peragallo in H. Peragallo & M. Peragallo, 1900
+MMETSP0733	L26-C5	Stramenopile	Ochrophyta	Bacillariophyceae	Bacillariales	Bacillariaceae	Fragilariopsis	Fragilariopsis kerguelensis	H. Peragallo in H. Peragallo & M. Peragallo, 1900
+MMETSP0734	L26-C5	Stramenopile	Ochrophyta	Bacillariophyceae	Bacillariales	Bacillariaceae	Fragilariopsis	Fragilariopsis kerguelensis	H. Peragallo in H. Peragallo & M. Peragallo, 1900
+MMETSP0735	L26-C5	Stramenopile	Ochrophyta	Bacillariophyceae	Bacillariales	Bacillariaceae	Fragilariopsis	Fragilariopsis kerguelensis	H. Peragallo in H. Peragallo & M. Peragallo, 1900
+MMETSP0736	L26-C5	Stramenopile	Ochrophyta	Bacillariophyceae	Bacillariales	Bacillariaceae	Fragilariopsis	Fragilariopsis kerguelensis	H. Peragallo in H. Peragallo & M. Peragallo, 1900
+MMETSP0906	L2-C3	Stramenopile	Ochrophyta	Bacillariophyceae	Bacillariales	Bacillariaceae	Fragilariopsis	Fragilariopsis kerguelensis	H. Peragallo in H. Peragallo & M. Peragallo, 1900
+MMETSP0907	L2-C3	Stramenopile	Ochrophyta	Bacillariophyceae	Bacillariales	Bacillariaceae	Fragilariopsis	Fragilariopsis kerguelensis	H. Peragallo in H. Peragallo & M. Peragallo, 1900
+MMETSP0908	L2-C3	Stramenopile	Ochrophyta	Bacillariophyceae	Bacillariales	Bacillariaceae	Fragilariopsis	Fragilariopsis kerguelensis	H. Peragallo in H. Peragallo & M. Peragallo, 1900
+MMETSP0909	L2-C3	Stramenopile	Ochrophyta	Bacillariophyceae	Bacillariales	Bacillariaceae	Fragilariopsis	Fragilariopsis kerguelensis	H. Peragallo in H. Peragallo & M. Peragallo, 1900
+MMETSP0010	308	Stramenopile	Ochrophyta	Bacillariophyceae	Corethrids	Incertae sedis	Corethron	Corethron hystrix	Archibald 2018
+MMETSP0169	L29A3	Stramenopile	Ochrophyta	Bacillariophyceae	Corethrids	Incertae sedis	Corethron	Corethron pennatum	Archibald 2018
+MMETSP0171	L29A3	Stramenopile	Ochrophyta	Bacillariophyceae	Corethrids	Incertae sedis	Corethron	Corethron pennatum	Archibald 2018
+MMETSP1066	CCMP2513	Stramenopile	Ochrophyta	Bacillariophyceae	Coscinodiscids	Incertae sedis	Coscinodiscus	Coscinodiscus wailesii	Archibald 2018
+MMETSP0397	ECT3854	Stramenopile	Ochrophyta	Bacillariophyceae	Cyclophorales	Cyclophoraceae	Cyclophora	Cyclophora tenuis	World Register of Marine Species
+MMETSP0418	13vi08-1A	Stramenopile	Ochrophyta	Bacillariophyceae	Cyclophorales	Incertae sedis	Astrosyne	Astrosyne radiata	World Register of Marine Species
+MMETSP0696	CCMP396	Stramenopile	Ochrophyta	Bacillariophyceae	Cymatosirales	Cymatosiraceae	Extubocellulus	Extubocellulus spinifer	World Register of Marine Species
+MMETSP0697	CCMP396	Stramenopile	Ochrophyta	Bacillariophyceae	Cymatosirales	Cymatosiraceae	Extubocellulus	Extubocellulus spinifer	World Register of Marine Species
+MMETSP0698	CCMP396	Stramenopile	Ochrophyta	Bacillariophyceae	Cymatosirales	Cymatosiraceae	Extubocellulus	Extubocellulus spinifer	World Register of Marine Species
+MMETSP0699	CCMP396	Stramenopile	Ochrophyta	Bacillariophyceae	Cymatosirales	Cymatosiraceae	Extubocellulus	Extubocellulus spinifer	World Register of Marine Species
+MMETSP1070	NH13	Stramenopile	Ochrophyta	Bacillariophyceae	Cymatosirales	Cymatosiraceae	Minutocellus	Minutocellus polymorphus	World Register of Marine Species
+MMETSP1322	RCC2270	Stramenopile	Ochrophyta	Bacillariophyceae	Cymatosirales	Cymatosiraceae	Minutocellus	Minutocellus polymorphus	World Register of Marine Species
+MMETSP1434	CCMP3303	Stramenopile	Ochrophyta	Bacillariophyceae	Cymatosirales	Cymatosiraceae	Minutocellus	Minutocellus polymorphus	World Register of Marine Species
+MMETSP0705	CCMP134	Stramenopile	Ochrophyta	Bacillariophyceae	Rhaphoneidales	Asterionellopsidaceae	Asterionellopsis	Asterionellopsis glacialis	R.M.Crawford & D.G.Mann 1990
+MMETSP0706	CCMP134	Stramenopile	Ochrophyta	Bacillariophyceae	Rhaphoneidales	Asterionellopsidaceae	Asterionellopsis	Asterionellopsis glacialis	R.M.Crawford & D.G.Mann 1991
+MMETSP0707	CCMP134	Stramenopile	Ochrophyta	Bacillariophyceae	Rhaphoneidales	Asterionellopsidaceae	Asterionellopsis	Asterionellopsis glacialis	R.M.Crawford & D.G.Mann 1992
+MMETSP0708	CCMP134	Stramenopile	Ochrophyta	Bacillariophyceae	Rhaphoneidales	Asterionellopsidaceae	Asterionellopsis	Asterionellopsis glacialis	R.M.Crawford & D.G.Mann 1993
+MMETSP0713	Asterionellopsis glacialis	Stramenopile	Ochrophyta	Bacillariophyceae	Rhaphoneidales	Asterionellopsidaceae	Asterionellopsis	Asterionellopsis glacialis	R.M.Crawford & D.G.Mann 1994
+MMETSP1394	CCMP1581	Stramenopile	Ochrophyta	Bacillariophyceae	Rhaphoneidales	Asterionellopsidaceae	Asterionellopsis	Asterionellopsis glacialis	R.M.Crawford & D.G.Mann 1995
+MMETSP1361	CCMP2646	Stramenopile	Ochrophyta	Bacillariophyceae	Rhaphoneidales	Asterionellopsidaceae	Staurosira	Staurosira complex sp.	World Register of Marine Species
+MMETSP1176	CCMP1620	Stramenopile	Ochrophyta	Bacillariophyceae	Rhaphoneidales	Asterionellopsidaceae	Synedropsis	Synedropsis recta cf	World Register of Marine Species
+MMETSP1437	CCMP1452	Stramenopile	Ochrophyta	Bacillariophyceae	Hemiaulales	Hemiaulaceae	Eucampia	Eucampia antarctica	World Register of Marine Species
+MMETSP1449	CCMP2084	Stramenopile	Ochrophyta	Bacillariophyceae	Incertae sedis	Attheyaceae	Attheya	Attheya septentrionalis	World Register of Marine Species
+MMETSP0088	CCMP159	Stramenopile	Ochrophyta	Bacillariophyceae	Incertae sedis	Chaetocerotaceae	Chaetoceros	Chaetoceros affinis	World Register of Marine Species
+MMETSP0090	CCMP159	Stramenopile	Ochrophyta	Bacillariophyceae	Incertae sedis	Chaetocerotaceae	Chaetoceros	Chaetoceros affinis	World Register of Marine Species
+MMETSP0091	CCMP159	Stramenopile	Ochrophyta	Bacillariophyceae	Incertae sedis	Chaetocerotaceae	Chaetoceros	Chaetoceros affinis	World Register of Marine Species
+MMETSP0092	CCMP159	Stramenopile	Ochrophyta	Bacillariophyceae	Incertae sedis	Chaetocerotaceae	Chaetoceros	Chaetoceros affinis	World Register of Marine Species
+MMETSP1435	CCMP164	Stramenopile	Ochrophyta	Bacillariophyceae	Incertae sedis	Chaetocerotaceae	Chaetoceros	Chaetoceros brevis	World Register of Marine Species
+MMETSP1336	RCC1993	Stramenopile	Ochrophyta	Bacillariophyceae	Incertae sedis	Chaetocerotaceae	Chaetoceros	Chaetoceros cf. neogracile	World Register of Marine Species
+MMETSP0716	Chaetoceros curvisetus	Stramenopile	Ochrophyta	Bacillariophyceae	Incertae sedis	Chaetocerotaceae	Chaetoceros	Chaetoceros curvisetus	World Register of Marine Species
+MMETSP0717	Chaetoceros curvisetus	Stramenopile	Ochrophyta	Bacillariophyceae	Incertae sedis	Chaetocerotaceae	Chaetoceros	Chaetoceros curvisetus	World Register of Marine Species
+MMETSP0718	Chaetoceros curvisetus	Stramenopile	Ochrophyta	Bacillariophyceae	Incertae sedis	Chaetocerotaceae	Chaetoceros	Chaetoceros curvisetus	World Register of Marine Species
+MMETSP0719	Chaetoceros curvisetus	Stramenopile	Ochrophyta	Bacillariophyceae	Incertae sedis	Chaetocerotaceae	Chaetoceros	Chaetoceros curvisetus	World Register of Marine Species
+MMETSP0149	MM31A-1	Stramenopile	Ochrophyta	Bacillariophyceae	Incertae sedis	Chaetocerotaceae	Chaetoceros	Chaetoceros debilis	World Register of Marine Species
+MMETSP0150	MM31A-1	Stramenopile	Ochrophyta	Bacillariophyceae	Incertae sedis	Chaetocerotaceae	Chaetoceros	Chaetoceros debilis	World Register of Marine Species
+MMETSP1447	CCMP1751	Stramenopile	Ochrophyta	Bacillariophyceae	Incertae sedis	Chaetocerotaceae	Chaetoceros	Chaetoceros dichaeta	World Register of Marine Species
+MMETSP0751	CCMP1317	Stramenopile	Ochrophyta	Bacillariophyceae	Incertae sedis	Chaetocerotaceae	Chaetoceros	Chaetoceros neogracile	World Register of Marine Species
+MMETSP0752	CCMP1317	Stramenopile	Ochrophyta	Bacillariophyceae	Incertae sedis	Chaetocerotaceae	Chaetoceros	Chaetoceros neogracile	World Register of Marine Species
+MMETSP0753	CCMP1317	Stramenopile	Ochrophyta	Bacillariophyceae	Incertae sedis	Chaetocerotaceae	Chaetoceros	Chaetoceros neogracile	World Register of Marine Species
+MMETSP0754	CCMP1317	Stramenopile	Ochrophyta	Bacillariophyceae	Incertae sedis	Chaetocerotaceae	Chaetoceros	Chaetoceros neogracile	World Register of Marine Species
+MMETSP0200	GSL56	Stramenopile	Ochrophyta	Bacillariophyceae	Incertae sedis	Chaetocerotaceae	Chaetoceros	Chaetoceros sp.	World Register of Marine Species
+MMETSP1429	UNC1202	Stramenopile	Ochrophyta	Bacillariophyceae	Incertae sedis	Chaetocerotaceae	Chaetoceros	Chaetoceros sp.	World Register of Marine Species
+MMETSP0998	GSO105	Stramenopile	Ochrophyta	Bacillariophyceae	Lithodesmiales	Lithodesmiaceae	Ditylum	Ditylum brightwellii	World Register of Marine Species
+MMETSP1001	GSO105	Stramenopile	Ochrophyta	Bacillariophyceae	Lithodesmiales	Lithodesmiaceae	Ditylum	Ditylum brightwellii	World Register of Marine Species
+MMETSP1002	GSO103	Stramenopile	Ochrophyta	Bacillariophyceae	Lithodesmiales	Lithodesmiaceae	Ditylum	Ditylum brightwellii	World Register of Marine Species
+MMETSP1005	GSO103	Stramenopile	Ochrophyta	Bacillariophyceae	Lithodesmiales	Lithodesmiaceae	Ditylum	Ditylum brightwellii	World Register of Marine Species
+MMETSP1010	GSO104	Stramenopile	Ochrophyta	Bacillariophyceae	Lithodesmiales	Lithodesmiaceae	Ditylum	Ditylum brightwellii	World Register of Marine Species
+MMETSP1012	GSO104	Stramenopile	Ochrophyta	Bacillariophyceae	Lithodesmiales	Lithodesmiaceae	Ditylum	Ditylum brightwellii	World Register of Marine Species
+MMETSP1013	GSO104	Stramenopile	Ochrophyta	Bacillariophyceae	Lithodesmiales	Lithodesmiaceae	Ditylum	Ditylum brightwellii	World Register of Marine Species
+MMETSP1062	Pop1 (SS4)	Stramenopile	Ochrophyta	Bacillariophyceae	Lithodesmiales	Lithodesmiaceae	Ditylum	Ditylum brightwellii	World Register of Marine Species
+MMETSP1063	Pop2 (SS10)	Stramenopile	Ochrophyta	Bacillariophyceae	Lithodesmiales	Lithodesmiaceae	Ditylum	Ditylum brightwellii	World Register of Marine Species
+MMETSP1362	CCMP1856	Stramenopile	Ochrophyta	Bacillariophyceae	Lithodesmiales	Lithodesmiaceae	Leptocylindrus	Leptocylindrus danicus	World Register of Marine Species
+MMETSP0322	B651	Stramenopile	Ochrophyta	Bacillariophyceae	Lithodesmiales	Lithodesmiaceae	Leptocylindrus	Leptocylindrus danicus var. apora	World Register of Marine Species
+MMETSP0321	B650	Stramenopile	Ochrophyta	Bacillariophyceae	Lithodesmiales	Lithodesmiaceae	Leptocylindrus	Leptocylindrus danicus var. danicus	World Register of Marine Species
+MMETSP1360	CCMP2313	Stramenopile	Ochrophyta	Bacillariophyceae	Licmophorales	Licmophoraceae	Licomophora	Licmophora paradoxa	World Register of Marine Species
+MMETSP1171	CCMP826	Stramenopile	Ochrophyta	Bacillariophyceae	Lithodesmiales	Lithodesmiaceae	Helicotheca	Helicotheca tamensis	World Register of Marine Species
+MMETSP0794	CCMP 815	Stramenopile	Ochrophyta	Bacillariophyceae	Melosirids	Stephanopyxidaceae	Stephanopyxis	Stephanopyxis turris	Archibald 2018
+MMETSP1064	CCAP 1002/5	Stramenopile	Ochrophyta	Bacillariophyceae	Melosirids	Incertae sedis	Aulacoseira	Aulacoseira subarctica	Archibald 2018
+MMETSP1065	CCMP125	Stramenopile	Ochrophyta	Bacillariophyceae	Naviculales	Amphipleuraceae	Amphiprora	Amphiprora paludosa	World Register of Marine Species
+MMETSP0724	CCMP467	Stramenopile	Ochrophyta	Bacillariophyceae	Naviculales	Amphipleuraceae	Amphiprora	Amphiprora sp.	World Register of Marine Species
+MMETSP0725	CCMP467	Stramenopile	Ochrophyta	Bacillariophyceae	Naviculales	Amphipleuraceae	Amphiprora	Amphiprora sp.	World Register of Marine Species
+MMETSP0726	CCMP467	Stramenopile	Ochrophyta	Bacillariophyceae	Naviculales	Amphipleuraceae	Amphiprora	Amphiprora sp.	World Register of Marine Species
+MMETSP0727	CCMP467	Stramenopile	Ochrophyta	Bacillariophyceae	Naviculales	Amphipleuraceae	Amphiprora	Amphiprora sp.	World Register of Marine Species
+MMETSP1442	CCMP3328	Stramenopile	Ochrophyta	Bacillariophyceae	Naviculales	Naviculaceae	Craspedostauros	Craspedostauros australis	World Register of Marine Species
+AddRef0034	CCAP 1055/1	Stramenopile	Ochrophyta	Bacillariophyceae	Naviculales	Phaeodactylaceae	Phaeodactylum	Phaeodactylum tricornutum	World Register of Marine Species
+MMETSP1352	CCMP1120	Stramenopile	Ochrophyta	Bacillariophyceae	Naviculales	Stauroneidaceae	Stauroneis	Stauroneis constricta	World Register of Marine Species
+MMETSP0580	Dactyliosolen fragilissimus	Stramenopile	Ochrophyta	Bacillariophyceae	Rhizosoleniales	Rhizosoleniaceae	Dactyliosolen	Dactyliosolen fragilissimus	World Register of Marine Species
+MMETSP0174	PI-D3	Stramenopile	Ochrophyta	Bacillariophyceae	Rhizosoleniales	Rhizosoleniaceae	Proboscia	Proboscia alata	World Register of Marine Species
+MMETSP0176	PI-D3	Stramenopile	Ochrophyta	Bacillariophyceae	Rhizosoleniales	Rhizosoleniaceae	Proboscia	Proboscia alata	World Register of Marine Species
+MMETSP0816	CCAP1064/1	Stramenopile	Ochrophyta	Bacillariophyceae	Rhizosoleniales	Rhizosoleniaceae	Proboscia	Proboscia inermis	World Register of Marine Species
+MMETSP0789	CCMP 1694	Stramenopile	Ochrophyta	Bacillariophyceae	Rhizosoleniales	Rhizosoleniaceae	Rhizosolenia	Rhizosolenia setigera	World Register of Marine Species
+MMETSP0009	CCMP 410	Stramenopile	Ochrophyta	Bacillariophyceae	Straitellales	Striatellaceae	Gammatophora	Grammatophora oceanica	World Register of Marine Species
+MMETSP0800	CCMP2910	Stramenopile	Ochrophyta	Bacillariophyceae	Straitellales	Striatellaceae	Striatella	Striatella unipunctata	World Register of Marine Species
+MMETSP1443	CCMP2396	Stramenopile	Ochrophyta	Bacillariophyceae	Surirellales	Entomoneidaceae	Entomoneis	Entomoneis sp.	World Register of Marine Species
+MMETSP0786	CCMP 1798	Stramenopile	Ochrophyta	Bacillariophyceae	Thalassionematales	Thalassionemataceae	Thalassionema	Thalassionema frauenfeldii	World Register of Marine Species
+MMETSP0156	L26-B	Stramenopile	Ochrophyta	Bacillariophyceae	Thalassionematales	Thalassionemataceae	Thalassionema	Thalassionema nitzschioides	World Register of Marine Species
+MMETSP0158	L26-B	Stramenopile	Ochrophyta	Bacillariophyceae	Thalassionematales	Thalassionemataceae	Thalassionema	Thalassionema nitzschioides	World Register of Marine Species
+MMETSP0693	Uncertain	Stramenopile	Ochrophyta	Bacillariophyceae	Thalassionematales	Thalassionemataceae	Thalassionema	Thalassionema nitzschioides	World Register of Marine Species
+MMETSP0152	L6-D1	Stramenopile	Ochrophyta	Bacillariophyceae	Thalassionematales	Thalassionemataceae	Thalassiothrix	Thalassiothrix antarctica	World Register of Marine Species
+MMETSP0154	L6-D1	Stramenopile	Ochrophyta	Bacillariophyceae	Thalassionematales	Thalassionemataceae	Thalassiothrix	Thalassiothrix antarctica	World Register of Marine Species
+MMETSP0316	CCMP127	Stramenopile	Ochrophyta	Bacillariophyceae	Thalassiophysales	Catenulaceae	Amphora	Amphora coffeaeformis	World Register of Marine Species
+MMETSP0317	CCMP127	Stramenopile	Ochrophyta	Bacillariophyceae	Thalassiophysales	Catenulaceae	Amphora	Amphora coffeaeformis	World Register of Marine Species
+MMETSP0318	CCMP127	Stramenopile	Ochrophyta	Bacillariophyceae	Thalassiophysales	Catenulaceae	Amphora	Amphora coffeaeformis	World Register of Marine Species
+MMETSP1057	CCMP 338	Stramenopile	Ochrophyta	Bacillariophyceae	Thalassiophysales	Stephanodiscaceae	Cyclotella	Cyclotella meneghiniana	World Register of Marine Species
+MMETSP1058	CCMP 353	Stramenopile	Ochrophyta	Bacillariophyceae	Thalassiosirales	Skeletonemaceae	Detonula	Detonula confervacea	World Register of Marine Species
+MMETSP0013	1716	Stramenopile	Ochrophyta	Bacillariophyceae	Thalassiosirales	Skeletonemaceae	Skeletonema	Skeletonema costatum	World Register of Marine Species
+MMETSP0562	SkelB	Stramenopile	Ochrophyta	Bacillariophyceae	Thalassiosirales	Skeletonemaceae	Skeletonema	Skeletonema dohrnii	World Register of Marine Species
+MMETSP0563	SkelB	Stramenopile	Ochrophyta	Bacillariophyceae	Thalassiosirales	Skeletonemaceae	Skeletonema	Skeletonema dohrnii	World Register of Marine Species
+MMETSP0578	CCMP 1804	Stramenopile	Ochrophyta	Bacillariophyceae	Thalassiosirales	Skeletonemaceae	Skeletonema	Skeletonema grethea	World Register of Marine Species
+MMETSP0593	CCMP2506	Stramenopile	Ochrophyta	Bacillariophyceae	Thalassiosirales	Skeletonemaceae	Skeletonema	Skeletonema japonicum	World Register of Marine Species
+MMETSP0319	SM1012Hels-07	Stramenopile	Ochrophyta	Bacillariophyceae	Thalassiosirales	Skeletonemaceae	Skeletonema	Skeletonema marinoi	World Register of Marine Species
+MMETSP0320	SM1012Den-03	Stramenopile	Ochrophyta	Bacillariophyceae	Thalassiosirales	Skeletonemaceae	Skeletonema	Skeletonema marinoi	World Register of Marine Species
+MMETSP0918	skelA	Stramenopile	Ochrophyta	Bacillariophyceae	Thalassiosirales	Skeletonemaceae	Skeletonema	Skeletonema marinoi	World Register of Marine Species
+MMETSP0920	skelA	Stramenopile	Ochrophyta	Bacillariophyceae	Thalassiosirales	Skeletonemaceae	Skeletonema	Skeletonema marinoi	World Register of Marine Species
+MMETSP1039	FE7	Stramenopile	Ochrophyta	Bacillariophyceae	Thalassiosirales	Skeletonemaceae	Skeletonema	Skeletonema marinoi	World Register of Marine Species
+MMETSP1040	FE60	Stramenopile	Ochrophyta	Bacillariophyceae	Thalassiosirales	Skeletonemaceae	Skeletonema	Skeletonema marinoi	World Register of Marine Species
+MMETSP1428	UNC1201	Stramenopile	Ochrophyta	Bacillariophyceae	Thalassiosirales	Skeletonemaceae	Skeletonema	Skeletonema marinoi	World Register of Marine Species
+MMETSP0603	CCMP793	Stramenopile	Ochrophyta	Bacillariophyceae	Thalassiosirales	Skeletonemaceae	Skeletonema	Skeletonema menzelii	World Register of Marine Species
+MMETSP0604	CCMP793	Stramenopile	Ochrophyta	Bacillariophyceae	Thalassiosirales	Skeletonemaceae	Skeletonema	Skeletonema menzelii	World Register of Marine Species
+MMETSP0902	CCMP982	Stramenopile	Ochrophyta	Bacillariophyceae	Thalassiosirales	Thalassiosiraceae	Thalassiosira	Thalassiosira antarctica	World Register of Marine Species
+MMETSP0903	CCMP982	Stramenopile	Ochrophyta	Bacillariophyceae	Thalassiosirales	Thalassiosiraceae	Thalassiosira	Thalassiosira antarctica	World Register of Marine Species
+MMETSP0904	CCMP982	Stramenopile	Ochrophyta	Bacillariophyceae	Thalassiosirales	Thalassiosiraceae	Thalassiosira	Thalassiosira antarctica	World Register of Marine Species
+MMETSP0905	CCMP982	Stramenopile	Ochrophyta	Bacillariophyceae	Thalassiosirales	Thalassiosiraceae	Thalassiosira	Thalassiosira antarctica	World Register of Marine Species
+MMETSP0492	GMp14c1	Stramenopile	Ochrophyta	Bacillariophyceae	Thalassiosirales	Thalassiosiraceae	Thalassiosira	Thalassiosira gravida	World Register of Marine Species
+MMETSP0493	GMp14c1	Stramenopile	Ochrophyta	Bacillariophyceae	Thalassiosirales	Thalassiosiraceae	Thalassiosira	Thalassiosira gravida	World Register of Marine Species
+MMETSP0494	GMp14c1	Stramenopile	Ochrophyta	Bacillariophyceae	Thalassiosirales	Thalassiosiraceae	Thalassiosira	Thalassiosira gravida	World Register of Marine Species
+MMETSP0737	CCMP1093	Stramenopile	Ochrophyta	Bacillariophyceae	Thalassiosirales	Thalassiosiraceae	Thalassiosira	Thalassiosira miniscula	World Register of Marine Species
+MMETSP0738	CCMP1093	Stramenopile	Ochrophyta	Bacillariophyceae	Thalassiosirales	Thalassiosiraceae	Thalassiosira	Thalassiosira miniscula	World Register of Marine Species
+MMETSP0739	CCMP1093	Stramenopile	Ochrophyta	Bacillariophyceae	Thalassiosirales	Thalassiosiraceae	Thalassiosira	Thalassiosira miniscula	World Register of Marine Species
+MMETSP0740	CCMP1093	Stramenopile	Ochrophyta	Bacillariophyceae	Thalassiosirales	Thalassiosiraceae	Thalassiosira	Thalassiosira miniscula	World Register of Marine Species
+MMETSP0970	CCMP1005	Stramenopile	Ochrophyta	Bacillariophyceae	Thalassiosirales	Thalassiosiraceae	Thalassiosira	Thalassiosira oceanica	World Register of Marine Species
+MMETSP0971	CCMP1005	Stramenopile	Ochrophyta	Bacillariophyceae	Thalassiosirales	Thalassiosiraceae	Thalassiosira	Thalassiosira oceanica	World Register of Marine Species
+MMETSP0972	CCMP1005	Stramenopile	Ochrophyta	Bacillariophyceae	Thalassiosirales	Thalassiosiraceae	Thalassiosira	Thalassiosira oceanica	World Register of Marine Species
+MMETSP0973	CCMP1005	Stramenopile	Ochrophyta	Bacillariophyceae	Thalassiosirales	Thalassiosiraceae	Thalassiosira	Thalassiosira oceanica	World Register of Marine Species
+AddRef0043	CCMP1335	Stramenopile	Ochrophyta	Bacillariophyceae	Thalassiosirales	Thalassiosiraceae	Thalassiosira	Thalassiosira pseudonana	World Register of Marine Species
+MMETSP1067	Tpunct2005C2	Stramenopile	Ochrophyta	Bacillariophyceae	Thalassiosirales	Thalassiosiraceae	Thalassiosira	Thalassiosira punctigera	World Register of Marine Species
+MMETSP0403	CCMP3096	Stramenopile	Ochrophyta	Bacillariophyceae	Thalassiosirales	Thalassiosiraceae	Thalassiosira	Thalassiosira rotula	World Register of Marine Species
+MMETSP0404	CCMP3096	Stramenopile	Ochrophyta	Bacillariophyceae	Thalassiosirales	Thalassiosiraceae	Thalassiosira	Thalassiosira rotula	World Register of Marine Species
+MMETSP0910	GSO102	Stramenopile	Ochrophyta	Bacillariophyceae	Thalassiosirales	Thalassiosiraceae	Thalassiosira	Thalassiosira rotula	World Register of Marine Species
+MMETSP0911	GSO102	Stramenopile	Ochrophyta	Bacillariophyceae	Thalassiosirales	Thalassiosiraceae	Thalassiosira	Thalassiosira rotula	World Register of Marine Species
+MMETSP0912	GSO102	Stramenopile	Ochrophyta	Bacillariophyceae	Thalassiosirales	Thalassiosiraceae	Thalassiosira	Thalassiosira rotula	World Register of Marine Species
+MMETSP0913	GSO102	Stramenopile	Ochrophyta	Bacillariophyceae	Thalassiosirales	Thalassiosiraceae	Thalassiosira	Thalassiosira rotula	World Register of Marine Species
+MMETSP1059	FW	Stramenopile	Ochrophyta	Bacillariophyceae	Thalassiosirales	Thalassiosiraceae	Thalassiosira	Thalassiosira sp.	World Register of Marine Species
+MMETSP1071	NH16	Stramenopile	Ochrophyta	Bacillariophyceae	Thalassiosirales	Thalassiosiraceae	Thalassiosira	Thalassiosira sp.	World Register of Marine Species
+MMETSP0878	CCMP1336	Stramenopile	Ochrophyta	Bacillariophyceae	Thalassiosirales	Thalassiosiraceae	Thalassiosira	Thalassiosira weissflogii	World Register of Marine Species
+MMETSP0879	CCMP1336	Stramenopile	Ochrophyta	Bacillariophyceae	Thalassiosirales	Thalassiosiraceae	Thalassiosira	Thalassiosira weissflogii	World Register of Marine Species
+MMETSP0880	CCMP1336	Stramenopile	Ochrophyta	Bacillariophyceae	Thalassiosirales	Thalassiosiraceae	Thalassiosira	Thalassiosira weissflogii	World Register of Marine Species
+MMETSP0881	CCMP1336	Stramenopile	Ochrophyta	Bacillariophyceae	Thalassiosirales	Thalassiosiraceae	Thalassiosira	Thalassiosira weissflogii	World Register of Marine Species
+MMETSP0898	CCMP1010	Stramenopile	Ochrophyta	Bacillariophyceae	Thalassiosirales	Thalassiosiraceae	Thalassiosira	Thalassiosira weissflogii	World Register of Marine Species
+MMETSP0899	CCMP1010	Stramenopile	Ochrophyta	Bacillariophyceae	Thalassiosirales	Thalassiosiraceae	Thalassiosira	Thalassiosira weissflogii	World Register of Marine Species
+MMETSP0900	CCMP1010	Stramenopile	Ochrophyta	Bacillariophyceae	Thalassiosirales	Thalassiosiraceae	Thalassiosira	Thalassiosira weissflogii	World Register of Marine Species
+MMETSP0901	CCMP1010	Stramenopile	Ochrophyta	Bacillariophyceae	Thalassiosirales	Thalassiosiraceae	Thalassiosira	Thalassiosira weissflogii	World Register of Marine Species
+MMETSP1405	CCMP1010	Stramenopile	Ochrophyta	Bacillariophyceae	Thalassiosirales	Thalassiosiraceae	Thalassiosira	Thalassiosira weissflogii	World Register of Marine Species
+MMETSP1406	CCMP1010	Stramenopile	Ochrophyta	Bacillariophyceae	Thalassiosirales	Thalassiosiraceae	Thalassiosira	Thalassiosira weissflogii	World Register of Marine Species
+MMETSP1407	CCMP1010	Stramenopile	Ochrophyta	Bacillariophyceae	Thalassiosirales	Thalassiosiraceae	Thalassiosira	Thalassiosira weissflogii	World Register of Marine Species
+MMETSP1408	CCMP1010	Stramenopile	Ochrophyta	Bacillariophyceae	Thalassiosirales	Thalassiosiraceae	Thalassiosira	Thalassiosira weissflogii	World Register of Marine Species
+MMETSP1409	CCMP1010	Stramenopile	Ochrophyta	Bacillariophyceae	Thalassiosirales	Thalassiosiraceae	Thalassiosira	Thalassiosira weissflogii	World Register of Marine Species
+MMETSP1410	CCMP1010	Stramenopile	Ochrophyta	Bacillariophyceae	Thalassiosirales	Thalassiosiraceae	Thalassiosira	Thalassiosira weissflogii	World Register of Marine Species
+MMETSP1411	CCMP1010	Stramenopile	Ochrophyta	Bacillariophyceae	Thalassiosirales	Thalassiosiraceae	Thalassiosira	Thalassiosira weissflogii	World Register of Marine Species
+MMETSP1412	CCMP1010	Stramenopile	Ochrophyta	Bacillariophyceae	Thalassiosirales	Thalassiosiraceae	Thalassiosira	Thalassiosira weissflogii	World Register of Marine Species
+MMETSP1413	CCMP1010	Stramenopile	Ochrophyta	Bacillariophyceae	Thalassiosirales	Thalassiosiraceae	Thalassiosira	Thalassiosira weissflogii	World Register of Marine Species
+MMETSP1414	CCMP1010	Stramenopile	Ochrophyta	Bacillariophyceae	Thalassiosirales	Thalassiosiraceae	Thalassiosira	Thalassiosira weissflogii	World Register of Marine Species
+MMETSP1415	CCMP1010	Stramenopile	Ochrophyta	Bacillariophyceae	Thalassiosirales	Thalassiosiraceae	Thalassiosira	Thalassiosira weissflogii	World Register of Marine Species
+MMETSP1416	CCMP1010	Stramenopile	Ochrophyta	Bacillariophyceae	Thalassiosirales	Thalassiosiraceae	Thalassiosira	Thalassiosira weissflogii	World Register of Marine Species
+MMETSP1417	CCMP1010	Stramenopile	Ochrophyta	Bacillariophyceae	Thalassiosirales	Thalassiosiraceae	Thalassiosira	Thalassiosira weissflogii	World Register of Marine Species
+MMETSP1418	CCMP1010	Stramenopile	Ochrophyta	Bacillariophyceae	Thalassiosirales	Thalassiosiraceae	Thalassiosira	Thalassiosira weissflogii	World Register of Marine Species
+MMETSP1419	CCMP1010	Stramenopile	Ochrophyta	Bacillariophyceae	Thalassiosirales	Thalassiosiraceae	Thalassiosira	Thalassiosira weissflogii	World Register of Marine Species
+MMETSP1420	CCMP1010	Stramenopile	Ochrophyta	Bacillariophyceae	Thalassiosirales	Thalassiosiraceae	Thalassiosira	Thalassiosira weissflogii	World Register of Marine Species
+MMETSP1421	CCMP1010	Stramenopile	Ochrophyta	Bacillariophyceae	Thalassiosirales	Thalassiosiraceae	Thalassiosira	Thalassiosira weissflogii	World Register of Marine Species
+MMETSP1422	CCMP1010	Stramenopile	Ochrophyta	Bacillariophyceae	Thalassiosirales	Thalassiosiraceae	Thalassiosira	Thalassiosira weissflogii	World Register of Marine Species
+MMETSP0015	isolate 1302-5	Stramenopile	Ochrophyta	Bacillariophyceae	Triceratiales	Triceratiaceae	Odontella	Odontella aurita	World Register of Marine Species
+MMETSP0160	Grunow 1884	Stramenopile	Ochrophyta	Bacillariophyceae	Triceratiales	Triceratiaceae	Odontella	Odontella Sinensis	World Register of Marine Species
+MMETSP1175	CCMP147	Stramenopile	Ochrophyta	Bacillariophyceae	Triceratiales	Triceratiaceae	Triceratium	Triceratium dubium	World Register of Marine Species
+MMETSP0785	CCMP 1866	Stramenopile	Ochrophyta	Bolidophyceae	Bolidomonadales	Bolidomonadaceae	Bolidomonas	Bolidomonas pacifica	L.Guillou & M.-J.Chrétiennot-Dinet, 1999
+MMETSP1319	RCC208	Stramenopile	Ochrophyta	Bolidophyceae	Bolidomonadales	Bolidomonadaceae	Bolidomonas	Bolidomonas pacifica	L.Guillou & M.-J.Chrétiennot-Dinet, 1999
+MMETSP1320	RCC2347	Stramenopile	Ochrophyta	Bolidophyceae	Bolidomonadales	Bolidomonadaceae	Bolidomonas	Bolidomonas sp.	L.Guillou & M.-J.Chrétiennot-Dinet, 1999
+MMETSP1321	RCC1657	Stramenopile	Ochrophyta	Bolidophyceae	Bolidomonadales	Bolidomonadaceae	Bolidomonas	Bolidomonas sp.	L.Guillou & M.-J.Chrétiennot-Dinet, 1999
+MMETSP1095	UTEXLB2642	Stramenopile	Ochrophyta	Chrysophyta	Chromulinales	Incertae sedis	Chromulina	Chromulina nebulosa	Archibald 2018
+MMETSP0019	UTEXLB2267	Stramenopile	Ochrophyta	Chrysophyta	Ochromonadales	Incertae sedis	Dinobryon	Dinobryon sp.	Archibald 2018
+MMETSP0020	UTEXLB2267	Stramenopile	Ochrophyta	Chrysophyta	Ochromonadales	Incertae sedis	Dinobryon	Dinobryon sp.	Archibald 2018
+MMETSP0812	UTEXLB2267	Stramenopile	Ochrophyta	Chrysophyta	Ochromonadales	Incertae sedis	Dinobryon	Dinobryon sp.	Archibald 2018
+MMETSP1177	CCMP1899	Stramenopile	Ochrophyta	Chrysophyta	Ochromonadales	Incertae sedis	Ochromonas	Ochromonas sp	Archibald 2018
+MMETSP0004	CCMP1393	Stramenopile	Ochrophyta	Chrysophyta	Ochromonadales	Incertae sedis	Ochromonas	Ochromonas sp.	Archibald 2018
+MMETSP0005	CCMP1393	Stramenopile	Ochrophyta	Chrysophyta	Ochromonadales	Incertae sedis	Ochromonas	Ochromonas sp.	Archibald 2018
+MMETSP1105	BG-1	Stramenopile	Ochrophyta	Chrysophyta	Ochromonadales	Incertae sedis	Ochromonas	Ochromonas sp.	Archibald 2018
+MMETSP1098	CCAP 955/1	Stramenopile	Ochrophyta	Chrysophyta	Ochromonadales	Incertae sedis	Spumella	Spumella elongata	Archibald 2018
+MMETSP1141	CCMP2298	Stramenopile	Ochrophyta	Chrysophyta	Ochromonadales	Uncertain	Uncertain	Uncertain	Not described
+MMETSP1142	CCMP2298	Stramenopile	Ochrophyta	Chrysophyta	Ochromonadales	Uncertain	Uncertain	Uncertain	Not described
+MMETSP1143	CCMP2298	Stramenopile	Ochrophyta	Chrysophyta	Ochromonadales	Uncertain	Uncertain	Uncertain	Not described
+MMETSP1144	CCMP2298	Stramenopile	Ochrophyta	Chrysophyta	Ochromonadales	Uncertain	Uncertain	Uncertain	Not described
+MMETSP1103	Caron Lab Isolate	Stramenopile	Ochrophyta	Chrysophyta	Paraphysomonadida	Incertae sedis	Paraphysomonas	Paraphysomonas bandaiensis	Archibald 2018
+MMETSP0103	PA2	Stramenopile	Ochrophyta	Chrysophyta	Paraphysomonadida	Incertae sedis	Paraphysomonas	Paraphysomonas Imperforata	Archibald 2018
+MMETSP0104	PA2	Stramenopile	Ochrophyta	Chrysophyta	Paraphysomonadida	Incertae sedis	Paraphysomonas	Paraphysomonas Imperforata	Archibald 2018
+MMETSP1107	GFlagA	Stramenopile	Ochrophyta	Chrysophyta	Paraphysomonadida	Incertae sedis	Paraphysomonas	Paraphysomonas vestita	Archibald 2018
+AddRef0059	TOSAG23-4	Stramenopile	Ochrophyta	Chrysophyta	Parmales	Incertae sedis	Chrysophyte-H	Chrysophyte H1	Archibald 2018
+AddRef0060	TOSAG23-5	Stramenopile	Ochrophyta	Chrysophyta	Parmales	Incertae sedis	Chrysophyte-H	Chrysophyte H2	Archibald 2018
+MMETSP1167	CCMP3275	Stramenopile	Ochrophyta	Chrysophyta	Synurales	Incertae sedis	Mallomonas	Mallomonas Sp	Archibald 2018
+MMETSP1174	CCMP1381	Stramenopile	Ochrophyta	Dictyochophyceae	Dictyochales	Dictyochaceae	Dictyocha	Dictyocha speculum	Ehrenberg, 1839
+MMETSP1323	RCC1693	Stramenopile	Ochrophyta	Dictyochophyceae	Florenciellales	Incertae sedis	Florenciella	Florenciella parvula	Eikrem, 2004
+MMETSP1344	CCMP2471	Stramenopile	Ochrophyta	Dictyochophyceae	Florenciellales	Incertae sedis	Florenciella	Florenciella parvula	Eikrem, 2004
+MMETSP1324	RCC1587	Stramenopile	Ochrophyta	Dictyochophyceae	Florenciellales	Incertae sedis	Florenciella	Florenciella sp.	Eikrem, 2004
+MMETSP1325	RCC1007	Stramenopile	Ochrophyta	Dictyochophyceae	Florenciellales	Incertae sedis	Florenciella	Florenciella sp.	Eikrem, 2004
+MMETSP1068	CCMP716	Stramenopile	Ochrophyta	Dictyochophyceae	Pedinellales	Pedinellaceae	Pseudopedinella	Pseudopedinella elastica	Skuja, 1948
+MMETSP1097	CCMP716	Stramenopile	Ochrophyta	Dictyochophyceae	Pedinellales	Pedinellaceae	Pseudopedinella	Pseudopedinella elastica	Skuja, 1948
+MMETSP0101	PT	Stramenopile	Ochrophyta	Dictyochophyceae	Pedinellales	Pedinellaceae	Pteridomonas	Pteridomonas danica	Patterson & Fenchel
+MMETSP0102	PT	Stramenopile	Ochrophyta	Dictyochophyceae	Pedinellales	Pedinellaceae	Pteridomonas	Pteridomonas danica	Patterson & Fenchel
+MMETSP1163	CCMP2877	Stramenopile	Ochrophyta	Dictyochophyceae	Pinguiochrysidales	Pinguiochrysidaceae	Phaeomonas	Phaeomonas parva	D.Honda & I.Inouye, 2002
+MMETSP1160	CCMP2078	Stramenopile	Ochrophyta	Dictyochophyceae	Pinguiochrysidales	Pinguiochrysidaceae	Pinguiococcus	Pinguiococcus pyrenoidosus	Anderson, R.A., Potter, D. & Bailey, J.C., 2002
+MMETSP1173	CCMP1243	Stramenopile	Ochrophyta	Dictyochophyceae	Rhizochromulinales	Rhizochromulinaceae	Rhizochromulina	Rhizochromulina marina cf	D.J.Hibberd & Chrétiennot-Dinet, 1979
+AddRef0024	B31	Stramenopile	Ochrophyta	Eustigmatophyceae	Eustigmatales	Monodopsidaceae	Nannochloropsis	Nannochloropsis gaditana	Archibald 2018
+AddRef0025	CCMP526	Stramenopile	Ochrophyta	Eustigmatophyceae	Eustigmatales	Monodopsidaceae	Nannochloropsis	Nannochloropsis gaditana	Archibald 2018
+AddRef0005	CCMP1984	Stramenopile	Ochrophyta	Pelagophyceae	Pelagomonadales	Pelagomonadaceae	Aureococcus	Aureococcus anophagefferens	Hargraves & Sieburth, 1988
+MMETSP0914	CCMP1850	Stramenopile	Ochrophyta	Pelagophyceae	Pelagomonadales	Pelagomonadaceae	Aureococcus	Aureococcus anophagefferens	Hargraves & Sieburth, 1988
+MMETSP0915	CCMP1850	Stramenopile	Ochrophyta	Pelagophyceae	Pelagomonadales	Pelagomonadaceae	Aureococcus	Aureococcus anophagefferens	Hargraves & Sieburth, 1988
+MMETSP0916	CCMP1850	Stramenopile	Ochrophyta	Pelagophyceae	Pelagomonadales	Pelagomonadaceae	Aureococcus	Aureococcus anophagefferens	Hargraves & Sieburth, 1988
+MMETSP0917	CCMP1850	Stramenopile	Ochrophyta	Pelagophyceae	Pelagomonadales	Pelagomonadaceae	Aureococcus	Aureococcus anophagefferens	Hargraves & Sieburth, 1988
+MMETSP0882	CCMP1429	Stramenopile	Ochrophyta	Pelagophyceae	Pelagomonadales	Pelagomonadaceae	Pelagococcus	Pelagococcus subviridis	R.A.Andersen & G.Saunders, 1993
+MMETSP0883	CCMP1429	Stramenopile	Ochrophyta	Pelagophyceae	Pelagomonadales	Pelagomonadaceae	Pelagococcus	Pelagococcus subviridis	R.A.Andersen & G.Saunders, 1993
+MMETSP0884	CCMP1429	Stramenopile	Ochrophyta	Pelagophyceae	Pelagomonadales	Pelagomonadaceae	Pelagococcus	Pelagococcus subviridis	R.A.Andersen & G.Saunders, 1993
+MMETSP0885	CCMP1429	Stramenopile	Ochrophyta	Pelagophyceae	Pelagomonadales	Pelagomonadaceae	Pelagococcus	Pelagococcus subviridis	R.A.Andersen & G.Saunders, 1993
+MMETSP0886	CCMP1756	Stramenopile	Ochrophyta	Pelagophyceae	Pelagomonadales	Pelagomonadaceae	Pelagomonas	Pelagomonas calceolata	R.A.Andersen & G.Saunders, 1993
+MMETSP0887	CCMP1756	Stramenopile	Ochrophyta	Pelagophyceae	Pelagomonadales	Pelagomonadaceae	Pelagomonas	Pelagomonas calceolata	R.A.Andersen & G.Saunders, 1993
+MMETSP0888	CCMP1756	Stramenopile	Ochrophyta	Pelagophyceae	Pelagomonadales	Pelagomonadaceae	Pelagomonas	Pelagomonas calceolata	R.A.Andersen & G.Saunders, 1993
+MMETSP0889	CCMP1756	Stramenopile	Ochrophyta	Pelagophyceae	Pelagomonadales	Pelagomonadaceae	Pelagomonas	Pelagomonas calceolata	R.A.Andersen & G.Saunders, 1993
+MMETSP1328	RCC969	Stramenopile	Ochrophyta	Pelagophyceae	Pelagomonadales	Pelagomonadaceae	Pelagomonas	Pelagomonas calceolata	R.A.Andersen & G.Saunders, 1993
+MMETSP1165	CCMP3189	Stramenopile	Ochrophyta	Pelagophyceae	Sarcinochrysidales	Sarcinochrysidaceae	Chrysocystis	Chrysocystis fragilis	D.Honda & Chihara, 1995
+MMETSP0890	CCMP1510	Stramenopile	Ochrophyta	Pelagophyceae	Sarcinochrysidales	Sarcinochrysidaceae	Aureoumbra	Aureoumbra lagunensis	D.A.Stockwell et al., 1997
+MMETSP0891	CCMP1510	Stramenopile	Ochrophyta	Pelagophyceae	Sarcinochrysidales	Sarcinochrysidaceae	Aureoumbra	Aureoumbra lagunensis	D.A.Stockwell et al., 1997
+MMETSP0892	CCMP1510	Stramenopile	Ochrophyta	Pelagophyceae	Sarcinochrysidales	Sarcinochrysidaceae	Aureoumbra	Aureoumbra lagunensis	D.A.Stockwell et al., 1997
+MMETSP0893	CCMP1510	Stramenopile	Ochrophyta	Pelagophyceae	Sarcinochrysidales	Sarcinochrysidaceae	Aureoumbra	Aureoumbra lagunensis	D.A.Stockwell et al., 1997
+MMETSP1164	CCMP2950	Stramenopile	Ochrophyta	Pelagophyceae	Sarcinochrysidales	Sarcinochrysidaceae	Chrysoreinhardia	Chrysoreinhardia sp	Billard, 2000
+MMETSP1166	CCMP3193	Stramenopile	Ochrophyta	Pelagophyceae	Sarcinochrysidales	Sarcinochrysidaceae	Chrysoreinhardia	Chrysoreinhardia sp	Billard, 2000
+MMETSP1170	CCMP770	Stramenopile	Ochrophyta	Pelagophyceae	Sarcinochrysidales	Sarcinochrysidaceae	Sarcinochrysis	Sarcinochrysis sp	Geitler, 1930
+MMETSP1329	RCC1024	Stramenopile	Ochrophyta	Pelagophyceae	Uncertain	Uncertain	Uncertain	Uncertain	Not described
+MMETSP1467	CCMP2135	Stramenopile	Ochrophyta	Pelagophyceae	Uncertain	Uncertain	Uncertain	Uncertain	Not described
+MMETSP0947	CCMP2191	Stramenopile	Ochrophyta	Raphidophyceae	Chattonellales	Vacuolariaceae	Chattonella	Chattonella subsalsa	Archibald 2018
+MMETSP0948	CCMP2191	Stramenopile	Ochrophyta	Raphidophyceae	Chattonellales	Vacuolariaceae	Chattonella	Chattonella subsalsa	Archibald 2018
+MMETSP0949	CCMP2191	Stramenopile	Ochrophyta	Raphidophyceae	Chattonellales	Vacuolariaceae	Chattonella	Chattonella subsalsa	Archibald 2018
+MMETSP0950	CCMP2191	Stramenopile	Ochrophyta	Raphidophyceae	Chattonellales	Vacuolariaceae	Chattonella	Chattonella subsalsa	Archibald 2018
+MMETSP1339	CCMP1661	Stramenopile	Ochrophyta	Raphidophyceae	Chattonellales	Vacuolariaceae	Fibrocapsa	Fibrocapsa japonica	Archibald 2018
+MMETSP0292	CCMP2393	Stramenopile	Ochrophyta	Raphidophyceae	Chattonellales	Vacuolariaceae	Heterosigma	Heterosigma akashiwo	Archibald 2018
+MMETSP0294	CCMP2393	Stramenopile	Ochrophyta	Raphidophyceae	Chattonellales	Vacuolariaceae	Heterosigma	Heterosigma akashiwo	Archibald 2018
+MMETSP0295	CCMP2393	Stramenopile	Ochrophyta	Raphidophyceae	Chattonellales	Vacuolariaceae	Heterosigma	Heterosigma akashiwo	Archibald 2018
+MMETSP0296	CCMP2393	Stramenopile	Ochrophyta	Raphidophyceae	Chattonellales	Vacuolariaceae	Heterosigma	Heterosigma akashiwo	Archibald 2018
+MMETSP0409	CCMP3107	Stramenopile	Ochrophyta	Raphidophyceae	Chattonellales	Vacuolariaceae	Heterosigma	Heterosigma akashiwo	Archibald 2018
+MMETSP0410	CCMP3107	Stramenopile	Ochrophyta	Raphidophyceae	Chattonellales	Vacuolariaceae	Heterosigma	Heterosigma akashiwo	Archibald 2018
+MMETSP0411	CCMP3107	Stramenopile	Ochrophyta	Raphidophyceae	Chattonellales	Vacuolariaceae	Heterosigma	Heterosigma akashiwo	Archibald 2018
+MMETSP0414	NB	Stramenopile	Ochrophyta	Raphidophyceae	Chattonellales	Vacuolariaceae	Heterosigma	Heterosigma akashiwo	Archibald 2018
+MMETSP0415	NB	Stramenopile	Ochrophyta	Raphidophyceae	Chattonellales	Vacuolariaceae	Heterosigma	Heterosigma akashiwo	Archibald 2018
+MMETSP0416	NB	Stramenopile	Ochrophyta	Raphidophyceae	Chattonellales	Vacuolariaceae	Heterosigma	Heterosigma akashiwo	Archibald 2018
+MMETSP0894	CCMP 452	Stramenopile	Ochrophyta	Raphidophyceae	Chattonellales	Vacuolariaceae	Heterosigma	Heterosigma akashiwo	Archibald 2018
+MMETSP0895	CCMP 452	Stramenopile	Ochrophyta	Raphidophyceae	Chattonellales	Vacuolariaceae	Heterosigma	Heterosigma akashiwo	Archibald 2018
+MMETSP0896	CCMP 452	Stramenopile	Ochrophyta	Raphidophyceae	Chattonellales	Vacuolariaceae	Heterosigma	Heterosigma akashiwo	Archibald 2018
+MMETSP0897	CCMP 452	Stramenopile	Ochrophyta	Raphidophyceae	Chattonellales	Vacuolariaceae	Heterosigma	Heterosigma akashiwo	Archibald 2018
+MMETSP1452	CCMP3072	Stramenopile	Ochrophyta	Synchromophyceae	Synchromales	Synchromaceae	Synchroma	Synchroma pusillum	Schmidt et al. 2012
+MMETSP0945	CCMP2940	Stramenopile	Ochrophyta	Xanthophyceae	Vaucheriales	Vaucheriaceae	Vaucheria	Vaucheria litorea	Archibald 2018
+MMETSP0946	CCMP2940	Stramenopile	Ochrophyta	Xanthophyceae	Vaucheriales	Vaucheriaceae	Vaucheria	Vaucheria litorea	Archibald 2018
+MMETSP0098	NY0313808BC1	Stramenopile	Uncertain	Uncertain	Uncertain	Uncertain	Uncertain	Uncertain	Not described
+MMETSP0099	NY0313808BC1	Stramenopile	Uncertain	Uncertain	Uncertain	Uncertain	Uncertain	Uncertain	Not described
+MMETSP0100	NY0313808BC1	Stramenopile	Uncertain	Uncertain	Uncertain	Uncertain	Uncertain	Uncertain	Not described
+MMETSP0974	CCMP2097	Stramenopile	Uncertain	Uncertain	Uncertain	Uncertain	Uncertain	Uncertain	Not described
+MMETSP0975	CCMP2097	Stramenopile	Uncertain	Uncertain	Uncertain	Uncertain	Uncertain	Uncertain	Not described
+MMETSP0976	CCMP2097	Stramenopile	Uncertain	Uncertain	Uncertain	Uncertain	Uncertain	Uncertain	Not described
+MMETSP0977	CCMP2097	Stramenopile	Uncertain	Uncertain	Uncertain	Uncertain	Uncertain	Uncertain	Not described
+MMETSP0990	CCMP2098	Stramenopile	Uncertain	Uncertain	Uncertain	Uncertain	Uncertain	Uncertain	Not described
+MMETSP0991	CCMP2098	Stramenopile	Uncertain	Uncertain	Uncertain	Uncertain	Uncertain	Uncertain	Not described
+MMETSP0992	CCMP2098	Stramenopile	Uncertain	Uncertain	Uncertain	Uncertain	Uncertain	Uncertain	Not described
+MMETSP0993	CCMP2098	Stramenopile	Uncertain	Uncertain	Uncertain	Uncertain	Uncertain	Uncertain	Not described
+MMETSP1433	NY07348D	Stramenopile	Uncertain	Uncertain	Uncertain	Uncertain	Uncertain	Uncertain	Not described
