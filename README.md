@@ -26,3 +26,29 @@ $ <path/to/diamond>/diamond blastx -d </path/to/EukZoo>/EukZoo -q Sample_R2.fast
 You can use the "-t" option to specify the number of threads you want to use. In addition, you can consider adding "--sensitive" option to the search if your organisms of interest does not have any close relatives in the database (We used it in our metatranscriptome studies). It generates more hits at the sacrifice of speed.
 
 You can use BLAST instead of DIAMOND. **If you use BLAST for the search, please make sure the outputs are in tabular format.**
+## 2. Taxonomy assignment
+Taxonomy assignment is done using the total LCA algorithm. All hits whose bitscore are above the cutoff (by default set as 95% of the best bitscore) are taken into account. For each taxonomy level, if there are no conflict among all those hits, then the concensus is assigned to that read. For read pairs, the one with higher best score wins. There are also restrictions on how deep the taxonomy assignment can go based on the %identity of the best hit. See assign_taxonomy.py for details.
+
+The taxonomy assignment script has two options. The required option (-t) is the database taxonomy table you downloaded. The optional option (-c) can set the score cutoff, default is 0.95. The script is written in Python 3. 
+```
+$ python </path/to/EukZoo>/assign_taxonomy.py -t </path/to/EukZoo>/EukZoo_taxonomy_table_v_0.2.tsv Sample_R1.blastx Sample_R2.blastx > Sample_taxonomy.txt
+```
+The result of taxonomy assignment will look like this:
+```
+HISEQ2500:265:C5UNMANXX:6:1101:1734:1936	Rhizaria;Retaria;Polycystinea;Spumellaria;Collosphaeridae;Thalassicolla;
+HISEQ2500:265:C5UNMANXX:6:1101:1836:1905	Alveolate;Dinoflagellate;Dinophyceae;Peridiniales;
+```
+The first column being the read name, the second column being semicolon-seperated taxonomy string.
+## 3. KEGG annotation assignment
+For functional annotation, we prefer to use the KEGG system, because I think it has a much better structure even though its scope is narrower than say Pfam or KOG. Therefore, pathway analysis using the KEGG system is much easier. We have generated KEGG annotations, in the form of KO IDs, for all the proteins in our database, via the [GhostKOALA server](https://www.kegg.jp/ghostkoala/). We also provide a script to assign KO IDs to your sequences based on hits to EukZoo. It works similarly to the taxonomy assignment script, in that there should be no conflicts among all hits above the score cutoff.
+
+The KEGG annotation assignment script has two options. The required option (-a) is the database KEGG annotation table you downloaded. The optional option (-c) can set the score cutoff, default is 0.95. The script is written in Python 3.
+```
+$ python </path/to/EukZoo>/assign_kegg_annotation.py -a </path/to/EukZoo>/EukZoo_KEGG_annotation_v_0.2.tsv Sample_R1.blastx Sample_R2.blastx > Sample_annotation.txt
+```
+The result of KEGG annotation will look like this:
+```
+HISEQ2500:265:C5UNMANXX:6:1101:1734:1936	K00933
+HISEQ2500:265:C5UNMANXX:6:1101:1761:1923	K02938
+```
+The first column being the read name, the second column being the KO ID assigned.
